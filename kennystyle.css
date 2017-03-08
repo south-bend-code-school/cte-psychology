@@ -18,7 +18,7 @@
 }
 
 #box1{
-  border:3px solid white;
+  border:3px solid black;
   height:400px;
   background-size:cover;
   background-image: url("projectImages/tincanlantern.jpg");
@@ -27,7 +27,7 @@
 }
 
 #box2{
-  border:3px solid white;
+  border:3px solid black;
   height:400px;
   background-size:cover;
   background-image: url("projectImages/tinCanMan.jpg");
