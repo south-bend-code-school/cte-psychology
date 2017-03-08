@@ -1,0 +1,37 @@
+nav{
+  background-color: black;
+}
+.aboutusbox{
+  height:100px;
+  width:100%;
+  border: 3px;
+  background-color:#77BD55;
+}
+.aboutustxt{
+  padding-top:1.7%;
+  text-align: center;
+  font-family: Century Gothic, sans-serif;
+  font-size: 50px;
+    color: #E0F1D8;
+    text-align: left;
+    padding-left: 5%;
+}
+.imageofus{
+ margin-left: 19%;
+ padding-top: 7%;
+}
+.descriptionbox{
+  height:150px;
+  width: 800px;
+
+margin-bottom: 20px;
+  margin-left: 19%;
+}
+.description{
+font-style: font-family: Gill Sans MT, sans-serif;
+text-align: center;
+font-size: 25px;
+color: #467131;
+padding-top: 2%;
+
+}

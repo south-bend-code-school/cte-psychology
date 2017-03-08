@@ -1,0 +1,100 @@
+#largeimage {
+  width:100%;
+  height:350px;
+  border: 3px solid black;
+}
+#arrowbar {
+  width: 1000px;
+  height:600px;
+  border: 3px solid black;
+}
+.Cycology {
+  text-align: left;
+  padding-left: 5%;
+    font-family: Century Gothic, sans-serif;
+    color:  #467131;
+    font-size: 50px;
+}
+#mediabox1 {
+  width:50%;
+  height: 225px;
+  border: 8px white solid;
+  margin: auto;
+  background-image: url("projectImages/bottletree.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#mediabox2 {
+  width:50%;
+  height: 225px;
+  border: 8px white solid;
+  margin: auto;
+  background-image: url("projectImages/bookmark.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#mediabox3 {
+  width:50%;
+  height: 225px;
+  border: 8px white solid;
+  margin: auto;
+  background-image: url("projectImages/candlecover.jpg");
+  background-size: cover;
+}
+#mediabox4 {
+  width:50%;
+  height: 225px;
+  border: 8px white solid;
+  margin: auto;
+  background-image: url("projectImages/bracelet.jpg");
+  background-size: cover;
+}
+.row{
+  width:100%;
+  height:300px;
+  text-align: center;
+  padding-bottom: 70px;
+}
+.poop {
+  font-size: 30px;
+  color: #E0F1D8;
+  font-family: Century Gothic, sans-serif;
+  padding-top: 6%;
+}
+.right {
+  display:inline-block;
+  width: 49%;
+  color: #E0F1D8;
+  font-family: Century Gothic, sans-serif;
+}
+.missionstatement{
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  font-family: Gill Sans MT, sans-serif;
+  font-size: 22px;
+      color:  #467131;
+}
+#superbox{
+  height:800px;
+  border: 3px;
+  background-color: #77BD55;
+  margin-bottom: 5%;
+}
+#image{
+
+  margin-left: 5%;
+}
+nav{
+  background-color: black;
+}
+.newprojects{
+  text-align: left;
+  padding-left: 5%;
+    font-family: Century Gothic, sans-serif;
+    font-size: 50px;
+    color:  #467131;
+}
+.newbar{
+  height:75px;
+}

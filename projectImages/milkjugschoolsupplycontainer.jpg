@@ -1,0 +1,1246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!-- saved from url=(0072)http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5 -->
+<html lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#" class="js js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths wf-merriweather-i4-active wf-merriweather-n4-active wf-nimbussanscondensed-n7-active wf-active" style=""><head profile="http://www.w3.org/1999/xhtml/vocab"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="./milkjugschoolsupplycontainer_files/nr-1016.min.js.download"></script><script src="./milkjugschoolsupplycontainer_files/osd.js.download"></script><script type="text/javascript">
+
+(function() {
+	window.trackingUtils=function(g,i,e,k,h,c,a){var f={},m=new RegExp("/(ref=[\\w]+)/?","i"),b=function(p){return p&&encodeURIComponent(p).replace(/&/g,"&amp;").replace(/"/g,"&quot;").replace(/</g,"&lt;").replace(/>/g,"&gt;");},o=(function(){var p=document.createElement("a");p.href=(window.location!=window.parent.location)?document.referrer:document.location;return p.protocol+"//"+p.hostname+((p.port==""||p.port=="80"||p.port=="443")?"":(":"+p.port))+(p.pathname.indexOf("/")!=0?("/"+p.pathname):p.pathname);}()),n=(function(){return b(o);}()),j=function(p,q,r){if(typeof r==="string"&&r!==""){if(p.search===""){p.search="?"+q+"="+r;}else{if(!p.search.match(new RegExp(q+"="))){p.search=p.search.replace(/\?/,"?"+q+"="+r+"&");}}}return p;},d=function(r,p,q){if(typeof q==="string"&&q!==""){if(!r.match(/\?/)){r=r+"?"+p+"="+q;}else{if(!r.match(p)){r=r.replace(/\?/,"?"+p+"="+q+"&");}}}return r;},l=function(q){var p=(typeof a!=="undefined")?a:0;if(typeof q!=="undefined"){p=q;}return p;};f.addRefUrls=function(u,v,q,p){var w=new RegExp("^http://.*(amazon|endless|myhabit|amazonwireless|javari|smallparts)\\.(com|ca|co\\.jp|de|fr|co\\.uk|cn|it|es)/.*","i"),r,t,s;for(s=0;s<u.length;s++){u[s].rel="nofollow";r=String(u[s].href);if(t=r.match(w)){u[s].href=f.addTrackingParameters(u[s],v,q,p);}}};f.addRefRefUrl=function(p){return j(p,"ref-refURL",n);};f.getRefRefUrl=function(){return n;};f.getRawRefUrl=function(){return o;};f.getSigTS=function(){return sigComputeTime;};f.addSignature=function(q,p,r){return j(j(q,"sig",p),"sigts",r);};f.addLinkCode=function(q,p){return j(q,"linkCode",p);};f.addTrackingId=function(q,p){return j(q,"tag",p);};f.addLinkId=function(p,q){return j(p,"linkId",q);};f.addCreativeAsin=function(p,q){return j(j(p,"creativeASIN",q),"adId",q);};f.getImpressionToken=function(){return c;};f.getClickUrl=function(){return h;};f.addImpressionToken=function(q,r){var p=l(r);if(typeof c==="string"&&c!=""){j(q,"imprToken",c);if(typeof p!=="undefined"){j(q,"slotNum",p);}}return q;};f.addImpressionTokenStr=function(r,q){var p=l(q);if(typeof c==="string"&&c!=""){r=d(r,"imprToken",c);if(typeof p!=="undefined"){r=d(r,"slotNum",p);}}return r;};f.addTrackingParameters=function(v,w,t,x,r,p,s,q){var u=f.addSignature(f.addCreativeAsin(f.addLinkId(f.addTrackingId(f.addLinkCode(f.addRefRefUrl(f.addImpressionToken(f.addRefMarker(v,r))),t),x),w),p),s,q);u.setAttribute("href",f.addAAXClickUrl(u.getAttribute("href")));return u;};f.addRefMarker=function(q,s){var r,p=false;if(typeof s==="undefined"){return q;}if(r=q.pathname.match(m)){q.pathname=q.pathname.replace(r[1],"ref="+s);}else{p=(q.pathname.charAt(q.pathname.length-1)=="/");q.pathname=q.pathname+(p?"":"/")+"ref="+s;}return q;};f.getRefMarker=function(p){var q;if(q=p.pathname.match(m)){return q[1].substr(4);}else{return undefined;}};f.makeForesterCall=function(t){var p,q=undefined,s,r="";t.refUrl=document.location.href;t.imprToken=c;if(typeof JSON!=="undefined"){s=JSON.stringify(t);}else{if(typeof amzn_assoc_utils!=="undefined"){s=amzn_assoc_utils.stringify(t);}else{return;}}if(typeof t.logType!=="undefined"){r="&logType="+t.logType;}p=i+"?cb="+(new Date()).getTime()+r+"&p="+encodeURIComponent(s);if(typeof k==="string"){q=k+"?assoc_payload="+encodeURIComponent(s);}if(typeof q!=="undefined"){(new Image()).src=q;}};f.recordImpression=function(q,p,s,r){s.linkCode=q;s.trackingId=p;f.makeForesterCall(s);if(typeof r==="undefined"||!r){(new Image()).src=e+"?l="+q+"&t="+p+"&o="+g+"&cb="+(new Date()).getTime();}};f.addAAXClickUrls=function(q){var s,r,p;if(typeof q==="undefined"||typeof h==="undefined"){return;}for(r=0;r<q.length;r++){p=String(q[r].href);if(p.indexOf(h)<0){s=h+p;q[r].href=s;}}};f.addAAXClickUrl=function(p){if(typeof p==="undefined"||typeof p==="undefined"||p.indexOf(h)==0){return p;}return h+p;};f.updateLinks=function(q,s){var r,p;if(typeof s!=="function"){return;}for(r=0;r<q.length;r++){p=String(q[r].href);q[r].href=s(p);}};f.elementInViewPort=function(p){var q=p.getBoundingClientRect(),r=(q.top>=0&&q.left>=0&&q.bottom<=(window.innerHeight||document.documentElement.clientHeight)&&q.right<=(window.innerWidth||document.documentElement.clientWidth));return{posX:q.left+window.pageXOffset,posY:q.top+window.pageYOffset,inViewPort:r};};f.initialViewabilityCall=function(w,q,s,v){var t,p=undefined,r,u={adViewability:[{above_the_fold:w,topPos:q,leftPos:s,slotNum:v}]};if(typeof JSON!=="undefined"){r=JSON.stringify(u);}else{if(typeof amzn_assoc_utils!=="undefined"){r=amzn_assoc_utils.stringify(u);}}if(typeof k==="string"){p=k+r;}if(typeof p!=="undefined"){(new Image()).src=p+"&cb="+(new Date()).getTime();}};f.makeViewabilityCall=function(t){var r,p=undefined,q,s={adViewability:[{viewable:true,slotNum:t}]};if(typeof JSON!=="undefined"){q=JSON.stringify(s);}else{if(typeof amzn_assoc_utils!=="undefined"){q=amzn_assoc_utils.stringify(s);}}if(typeof k==="string"){p=k+q;}if(typeof p!=="undefined"){(new Image()).src=p+"&cb="+(new Date()).getTime();}};return f;};window.elemTracker=function(b){var a={};a.trackElements=function(d,c){var f,e;if(typeof d!=="undefined"&&d.length>0&&typeof c==="function"){window.addEventListener("scroll",function(){for(f=0;f<d.length;f++){e=b.elementInViewPort(d[f]);if(e.inViewPort){c();}}},false);}};return a;};
+	var amznAutoTaggerMaker=function(j,l,n){var H={CA:"ca",CN:"cn",IN:"in",DE:"de",FR:"fr",GB:"co.uk",JP:"co.jp",US:"com"},E={CA:[],CN:[],IN:[],DE:["javari"],FR:["javari"],GB:["javari"],JP:["javari"],US:["smallparts","amazonwireless","endless","myhabit"]},v=(function(){var K=-1,J={};J.getNextSlotNum=function(){return ++K;};return J;}()),d,A,I=Math.max(document.body.scrollHeight,document.body.offsetHeight,document.documentElement.clientHeight,document.documentElement.scrollHeight,document.documentElement.offsetHeight),g=Math.max(document.body.scrollWidth,document.body.offsetWidth,document.documentElement.clientWidth,document.documentElement.scrollWidth,document.documentElement.offsetWidth),u={totalDocWidth:g,totalDocHeight:I,logType:"onetag_pageload",axfExperiment:j.expDetails,pageTitle:document.title},B="w50",o="w61",x="g11",e="g12",k={},r=new RegExp("%3F"),q=[],G=new Object(),C=false,D="",c="",p=0,b=0,z=0,t=new RegExp("amzn.to"),w=function(J){return J.nextSibling&&J.nextSibling.tagName==="IMG"&&J.nextSibling.hasAttribute("src")&&(J.nextSibling.getAttribute("src").search(/ir-[a-z]{2}\.amazon-adsystem\.com/)>-1||J.nextSibling.getAttribute("src").search(/www\.assoc-amazon\.*/)>-1);},f=function(J){J.href=j.redirectorEndPoint+J.href;},y=function(T,Y){var U=new RegExp("/(ref=[\\w]+)/?","i"),P,X=false,K,N,O=false,S=T.search.match(/\?tag=([^&]+)|&tag=([^&]+)|\?tag-value=([^&]+)|&tag-value=([^&]+)|\?tag_value=([^&]+)|&tag_value=([^&]+)|\?t=([^&]+)|&t=([^&]+)/),M=T.search.match(/\?tag=|&tag=|\?tag-value=|&tag-value=|\?tag_value=|&tag_value=|\?t=|&t=/),J=T.search.match(/(linkCode|link_code|lc)=([^&]+)/i),R=l.elementInViewPort(T),W={autoTagged:false,overwritten:false,geoRedirected:false,atf:R.inViewPort},L=v.getNextSlotNum(),Q={destinationURL:T.href,slotNum:L,atfInFirstLoad:R.inViewPort,posX:R.posX,posY:R.posY,logType:"onetag_textlink",axfExperiment:j.expDetails},V=w(T);W.slotNum=L;if(T.pathname.charAt(T.pathname.length-1)!=="/"){T.pathname=T.pathname+"/";}if(T.search===""){T.search="?imprToken="+l.getImpressionToken()+"&slotNum="+L;}else{T.search=T.search.replace(/\?/,"?imprToken="+l.getImpressionToken()+"&slotNum="+L+"&");}if(j.enableAutoTagging){W.autoTagged=true;if(S){if(j.overwrite){for(N=1;N<9;N++){if(S[N]!=undefined){T.search=T.search.replace(S[N],Y);break;}}W.overwritten=true;X=true;}}else{if(M){T.search=T.search.replace(/tag=/,"tag="+Y);X=true;}else{T.search=T.search.replace(/\?/,"?tag="+Y+"&");X=true;}}}if(J&&typeof j.overridableLinkCodes[J[2]]!=="undefined"){O=true;}if(J&&!O){K=J[2];}else{if(j.enableGeoRedirection&&j.expTriggered){K=j.geoRedirect?e:x;}else{K=X?B:o;}}if(J){Q.oldLinkCode=J[2];T.search=T.search.replace(J[2],K);}else{T.search=T.search.replace(/\?/,"?linkCode="+K+"&");}if(P=T.pathname.match(U)){T.pathname=T.pathname.replace(P[1],"ref=as_at");}else{T.pathname=T.pathname+"ref=as_at";}if(X){l.recordImpression(K,Y,Q,V);}else{if(typeof S!=="undefined"&&S instanceof Array&&S.length>=N+1&&typeof S[N]==="string"){l.recordImpression(K,S[N],Q,V);}else{l.recordImpression(K,"",Q,V);}}if(j.enableGeoRedirection&&j.expTriggered&&j.geoRedirect){W.geoRedirected=true;f(T);}if(T.hasAttribute("data-amzn-asin")&&!T.search.match("creativeASIN")){T.search=T.search.replace(/\?/,"?creativeASIN="+T.getAttribute("data-amzn-asin")+"&");}l.initialViewabilityCall(R.inViewPort,R.posX,R.posY,L);T.href=l.addAAXClickUrl(T.href);return W;},F=function(J){if(J.href.match(r)){A=J.href.split(r);J.href=A[0]+"?"+decodeURIComponent(A[1]);}},a=function(O,K,J,N){var M,L;for(M=0;M<K.length;M++){for(L=0;L<J.length;L++){if(window.addEventListener){K[M].addEventListener(J[L],N,false);}else{K[M].attachEvent("on"+J[L],N);}O.push({el:K[M],h:N,t:J[L]});}}},m=function(M,J,K){var L=false;a(M,[J],["touchstart"],function(){L=false;});a(M,[J],["touchmove"],function(){L=true;});a(M,[J],["click","touchend"],function(N){if(L){return;}window.open(K);N.stopPropagation();N.preventDefault();});},h=function(){var J="";for(i=0;i<j.itemRefs.length;i++){if(typeof j.itemRefs[i].type!=="undefined"&&j.itemRefs[i].type==="ASIN"&&typeof j.itemRefs[i].sourceLink!=="undefined"&&String(j.itemRefs[i].sourceLink).match(t)!==null&&typeof j.itemRefs[i].destinationLink!=="undefined"){G[j.itemRefs[i].sourceLink]=j.itemRefs[i].destinationLink;if(D!==""){J=",";}D=D+J+j.itemRefs[i].sourceLink;p++;}}},s=function(K,J){n.trackElements([K],function(){if(typeof J!==undefined&&J.slotNum!==undefined&&(J.viewed===undefined||!J.viewed)){l.makeViewabilityCall(J.slotNum);J.viewed=true;}});};if(j.locale!=undefined){d=j.locale;}else{d="US";}k.publisherCallBack=function(){window["amzn_assoc_client_cb_"+j.adUnitSlotNum]({type:"onload",data:{},widget:k});};k.tagLinks=function(aa){var ac,ab,K,V,ae,X=[],ag=0,S,U,ad,Z,af,J,T,Q=0,M=0,W=0,L=0,P=0,N=0,O,R,Y="";K=H[d];V=E[d];ae=new RegExp("^(http|https)://(www|[\\w\\-\\.]+)?amazon\\.("+K+")/","i");if(V){for(ag=0;ag<V.length;ag++){S=K;if(K=="co.jp"){S="co.jp|jp";}X[ag]=new RegExp("^(http|https)://(www\\.)?("+V[ag]+")\\.("+S+")/","i");}}U=aa.getElementsByTagName("a");if(!C){h();C=true;}for(ac=0;ac<U.length;ac++){T=undefined;ad=String(U[ac].href);if(Z=ad.match(ae)){ab=Z[3];F(U[ac]);T=y(U[ac],j.trackingId);ad=String(U[ac].href);s(U[ac],T);}else{if(j.isShortLinksSupported&&(af=ad.match(t))!==null){b++;if(c!==""){Y=",";}c=c+Y+U[ac].href;O=G[U[ac].href];if(typeof O!=="undefined"){z++;R=document.createElement("a");R.setAttribute("href",O);F(R);T=y(R,j.trackingId);m(q,U[ac],R.getAttribute("href"));s(U[ac],T);}}else{for(J=0;J<X.length;J++){if(Z=ad.match(X[J])){F(U[ac]);T=y(U[ac],j.trackingId);ad=String(U[ac].href);s(U[ac],T);}}}}if(typeof T!=="undefined"){if(T.autoTagged){M++;}if(T.overwritten){N++;}if(T.geoRedirected){W++;}if(T.atf){L++;}else{P++;}Q++;}}u.numLinks=Q;u.numAutoTaggedLinks=M;u.autoTaggingEnabled=j.enableAutoTagging;u.geoRedirectEnabled=j.enableGeoRedirection;u.numLinksATF=L;u.numLinksBTF=P;u.shortLinksInLivePool=D;u.shortLinksInPage=c;u.shortLinksInLivePoolCount=p;u.shortLinksInPageCount=b;u.shortLinksMatchCount=z;l.recordImpression(j.linkCode,j.trackingId,u);};return k;};
+    var spec = {
+        trackingId : "allyoucom0b-20",
+        region : "US",
+        overwrite : true,
+        enableAutoTagging : true,
+        linkCode : "w49",
+        overridableLinkCodes :  {   "am1": ""   , "am2": ""   , "am3": ""   , "as1": ""   , "as2": ""   , "as3": ""   , "as4": ""   , "li1": ""   , "li2": ""   , "li3": ""   , "ll1": ""   , "ll2": ""   },
+        enableGeoRedirection : true,
+        expTriggered : false,
+        geoRedirect : false,
+        redirectorEndPoint : "https://assoc-redirect.amazon.com/g/r/",
+        adUnitSlotNum : "0",
+        expDetails : '[]',
+        itemRefs : [],
+        isShortLinksSupported : true
+    }, trackingUtils = window.trackingUtils(
+        "1",
+        "//fls-na.amazon-adsystem.com/1/associates-ads/1/OP/r/json",
+        "//ir-na.amazon-adsystem.com/e/ir",
+        "http://aax-us-east.amazon-adsystem.com/x/px/QqUll0JYbJv4KmfNwwzyvR0AAAFalasXjwEAAAFKATXZgoY/", "http://aax-us-east.amazon-adsystem.com/x/c/QqUll0JYbJv4KmfNwwzyvR0AAAFalasXjwEAAAFKATXZgoY/", "EUtgxDvj1cZivWi1s0TPHw"
+    );
+
+    window.amznAutoTagger = amznAutoTaggerMaker(spec, trackingUtils, window.elemTracker(trackingUtils));
+    window.amznAutoTagger.tagLinks(document);
+    window.amznAutoTagger.publisherCallBack();
+}());
+
+ //# sourceURL=dynscript-0.js</script><script type="text/javascript" src="./milkjugschoolsupplycontainer_files/get" charset="UTF-8" async=""></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/saved_resource" id="utag_265"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/moatcontent.js.download" id="utag_55"></script><script type="text/javascript" async="" charset="utf-8" src="http://7213751.collect.igodigital.com/collect.js" id="utag_32"></script><script src="./milkjugschoolsupplycontainer_files/ads"></script><script src="./milkjugschoolsupplycontainer_files/ads(1)"></script><script src="./milkjugschoolsupplycontainer_files/ads(2)"></script><script src="./milkjugschoolsupplycontainer_files/ads(3)"></script><script src="./milkjugschoolsupplycontainer_files/ads(4)"></script><script src="./milkjugschoolsupplycontainer_files/ads(5)"></script><script src="./milkjugschoolsupplycontainer_files/ads(6)"></script><script src="./milkjugschoolsupplycontainer_files/ads(7)"></script><script src="./milkjugschoolsupplycontainer_files/ads(8)"></script><script type="text/javascript" async="" src="./milkjugschoolsupplycontainer_files/b45.js.download"></script><script type="text/javascript" src="./milkjugschoolsupplycontainer_files/get(1)" charset="UTF-8" async=""></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+<script async="" src="http://connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="./milkjugschoolsupplycontainer_files/c.js.download"></script><script type="text/javascript" async="" src="./milkjugschoolsupplycontainer_files/bid"></script><script type="text/javascript" async="" src="./milkjugschoolsupplycontainer_files/zerg.js.download"></script><script src="./milkjugschoolsupplycontainer_files/utag.js.download" type="text/javascript" async=""></script><script async="" type="text/javascript" src="./milkjugschoolsupplycontainer_files/evidon.js.download"></script><script src="./milkjugschoolsupplycontainer_files/sxt7rjz.js.download" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIFUFZbGwIAUlNQAwYG"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><meta name="path" content="recycled-crafts">
+<meta property="og:site_name" content="AllYou.com">
+<meta property="fb:app_id" content="2.1165261219387E+14">
+<meta property="og:title" content="19 Easy Crafts Made With Recycled Materials">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://cdn-jpg.allyou.com/sites/default/files/image/2014/01/500xvariable/i/2013/8/milk-jug-craft-2-x.jpg">
+<meta property="og:description" content="Instead of throwing them out, reuse yogurt cups, cereal boxes, milk jugs, water bottles (and more!) to make easy, affordable decorations for your home.
+">
+<script>      (function(d) {
+        var config = {
+          kitId: 'sxt7rjz',
+          baseURL: '//fonts.timeinc.net/',          scriptTimeout: 3000
+        },
+        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src=config.baseURL+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+      })(document);</script><link rel="shortcut icon" href="http://cdn-media.allyou.com/sites/all/themes/custom/allyou_bootstrap/favicon.ico" type="image/vnd.microsoft.icon">
+<meta property="og:url" content="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5">
+<link rel="canonical" href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5">
+<!-- Marfeel (from ti_snippets) -->
+<script>window.mrf={host:"bc.marfeel.com",dt:3},function(e,t,o,i,a,n,r){function d(){x&&(e.cookie="fromt=yes;path=/;expires="+new Date(Date.now()+18e5).toGMTString(),o.reload())}var x=!/marfeelgarda=no|fromt=yes/i.test(n+";"+a);if((/(ipad.*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9](?!.*mobile)|\bSilk\b/i.test(i)&&2&r.dt||/(ip(hone|od).*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9].*mobile|bb10/i.test(i)&&1&r.dt||/marfeelgarda=off/i.test(n))&&t===t.top){x&&e.write('<plaintext style="display:none">');var l="script",m=setTimeout(d,1e4),c=e.createElement(l),f=e.getElementsByTagName(l)[0];c.src="//bc.marfeel.com/statics/marfeel/gardac.js",c.onerror=d,c.onload=function(){clearTimeout(m)},f.parentNode.insertBefore(c,f)}}(document,window,location,navigator.userAgent,document.cookie,location.search,window.mrf);</script><link rel="dns-prefetch" href="http://cdn-js.allyou.com/">
+<link rel="dns-prefetch" href="http://cdn-css.allyou.com/">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="http://cdn-jpg.allyou.com/">
+<link rel="dns-prefetch" href="http://cdn-png.allyou.com/">
+<link rel="icon" type="image/png" sizes="16x16" href="http://www.allyou.com/sites/all/themes/custom/allyou_bootstrap/favicon.png">
+<meta name="render_time" content="2017-03-03 09:18:51">
+<link rel="dns-prefetch" href="http://cdn-media.allyou.com/">
+<link rel="icon" type="image/png" sizes="32x32" href="http://www.allyou.com/sites/all/themes/custom/allyou_bootstrap/favicon_2x.png">
+    <title>19 Easy Crafts Made With Recycled Materials | AllYou.com</title>
+    <link type="text/css" rel="stylesheet" href="./milkjugschoolsupplycontainer_files/css__-MZTarQHqU5C7hF0ouTkKbSxqDYcX-X0t5jaVQuvgzg__v1G_vQa11sU8fbd_ZvhIoUE2DKVoDus7LOTS_jbaTk8__Y1n--cCQdR4ArAGPDoMjseKql3dfFkVFJnf-uvPA1tg.css" media="all">
+    <!-- HTML5 element support for IE6-8 -->
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style>
+  /*---------------------------------------------------------------------------
+  * Icon Styles (Generated from the IcoMoon app https://icomoon.io/app)
+  *--------------------------------------------------------------------------- */
+  @font-face {
+    font-family: 'icomoon';
+    src:url('http://www.allyou.com/sites/all/themes/custom/allyou_bootstrap/fonts/icomoon.eot?ea2w9j');
+    src:url('http://www.allyou.com/sites/all/themes/custom/allyou_bootstrap/fonts/icomoon.eot?#iefixea2w9j') format('embedded-opentype'),
+      url('http://www.allyou.com/sites/all/themes/custom/allyou_bootstrap/fonts/icomoon.ttf?ea2w9j') format('truetype'),
+      url('http://www.allyou.com/sites/all/themes/custom/allyou_bootstrap/fonts/icomoon.woff?ea2w9j') format('woff'),
+      url('http://www.allyou.com/sites/all/themes/custom/allyou_bootstrap/fonts/icomoon.svg?ea2w9j#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  [class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .icon-mail:before {
+    content: "\e601";
+  }
+  .icon-twitter:before {
+    content: "\ea91";
+  }
+  .icon-grid:before {
+    content: "\e60c";
+  }
+  .icon-close:before {
+    content: "\e605";
+  }
+  .icon-search:before {
+    content: "\e604";
+  }
+  .icon-social-facebook:before {
+    content: "\e606";
+  }
+  .icon-angle-right:before {
+    content: "\e607";
+  }
+  .icon-angle-down:before {
+    content: "\e608";
+  }
+  .icon-instagram:before {
+    content: "\e602";
+  }
+  .icon-chevron-thin-left:before {
+    content: "\e60b";
+  }
+  .icon-chevron-thin-down:before {
+    content: "\e609";
+  }
+  .icon-menu:before {
+    content: "\e60a";
+  }
+  .icon-chevron-thin-right:before {
+    content: "\e603";
+  }
+  .icon-pinterest:before {
+    content: "\e600";
+  }
+</style>
+    <script>var TGX_SITE_CONFIG={gpt_sync_mode:"async",bluekai:false}</script>
+<script src="./milkjugschoolsupplycontainer_files/js__9Cx5V9kgfqBOBsVd7ynjlMqo7MQiW51n4JtwKGs0EXw__x4aTKZ1-p9TKEP60zycQP_WMi7ZT-xiFhhjbPmcnbM0__Y1n--cCQdR4ArAGPDoMjseKql3dfFkVFJnf-uvPA1tg.js.download"></script>
+<script src="./milkjugschoolsupplycontainer_files/tgx.js.download"></script><script src="./milkjugschoolsupplycontainer_files/gpt.js.download"></script><script type="text/javascript" async="" src="./milkjugschoolsupplycontainer_files/amzn_ads.js.download"></script><script id="gpt-impl-0.042039435307451134" src="./milkjugschoolsupplycontainer_files/pubads_impl_110.js.download"></script><link rel="prefetch" href="http://tpc.googlesyndication.com/safeframe/1-0-6/html/container.html"><script type="text/javascript" language="JavaScript" src="./milkjugschoolsupplycontainer_files/pql"></script>
+<script src="./milkjugschoolsupplycontainer_files/js__H5AFmq1RrXKsrazzPq_xPQPy4K0wUKqecPjczzRiTgQ__p930YZ_ODW6ZjDLOJmxJnRL7juGStYuszD6uNS8_FFo__Y1n--cCQdR4ArAGPDoMjseKql3dfFkVFJnf-uvPA1tg.js.download"></script>
+<script>var responsiveAdConfig={param:{ptype:"content"},TiiAdConfig:"3475.aly",CmSitename:"cm.aly",RevSciTracking:"true",zone:"budgethome",channel:"budgethome",subchannel:"crafts",articleId:"123821",contentType:"gallery",contentPage:""}</script>
+<script>var TI=TI||{};TI.environment_vars={buildlife:'okcc9l',fb_liking_app_id:102761366429277,theme_path:'/sites/all/themes/custom/allyou_bootstrap',web_base:'http://www.allyou.com'}</script>
+<script src="./milkjugschoolsupplycontainer_files/js__G4vgdGD7xyWVW7vwi14VE3CYrS_tg0jAsZI8-2zrjRE__ciALGH5KboOgus1oqe_laHHMSGBxuYWkO4LcdqhvDwE__Y1n--cCQdR4ArAGPDoMjseKql3dfFkVFJnf-uvPA1tg.js.download"></script>
+<script>function basicPopup(url){popupWindow=window.open(url,'popUpWindow','height=500,width=500,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes')}</script>
+<script>jQuery.extend(Drupal.settings,{basePath:"\/",pathPrefix:"",ajaxPageState:{theme:"allyou_bootstrap",theme_token:"kIqT9s88ZZI-l2vW0YNssWznvw2XQyczpg8wxF3PZH0",css:{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/custom\/allyou_bootstrap\/css\/style.css":1},js:{"\/\/native.sharethrough.com\/assets\/tag.js":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"http:\/\/widgets.outbrain.com\/outbrain.js":1,"sites\/all\/modules\/custom\/ti_udo\/js\/metadata.js":1,"sites\/all\/themes\/custom\/allyou_bootstrap\/js\/scripts.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"http:\/\/tiads.allyou.com\/ads\/tgx.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/ti_lsg_ay_responsive\/responsive_social_links.js":1,"sites\/all\/themes\/custom\/allyou_bootstrap\/js\/js-source\/app\/modernizr.js":1,"sites\/all\/themes\/custom\/allyou_bootstrap\/js\/js-source\/app\/config.js":1,"sites\/all\/libraries\/requirejs\/require.js":1}},colorbox:{opacity:"0.85",current:"{current} of {total}",previous:"\u00ab Prev",next:"Next \u00bb",close:"Close",maxWidth:"98%",maxHeight:"98%",fixed:true,mobiledetect:true,mobiledevicewidth:"480px"},urlIsAjaxTrusted:{"\/budget-home\/crafts\/recycled-crafts\/craft-contest_5":true},bootstrap:{anchorsFix:"1",anchorsSmoothScrolling:"1",formHasError:1,popoverEnabled:"1",popoverOptions:{animation:1,html:0,placement:"right",selector:"",trigger:"click",triggerAutoclose:1,title:"",content:"",delay:0,container:"body"},tooltipEnabled:"1",tooltipOptions:{animation:1,html:0,placement:"auto left",selector:"",trigger:"hover focus",delay:0,container:"body"}}});</script>
+  <style type="text/css">.tk-nimbus-sans-condensed{font-family:"nimbus-sans-condensed",sans-serif;}.tk-merriweather{font-family:"merriweather",serif;}</style><link rel="stylesheet" href="./milkjugschoolsupplycontainer_files/sxt7rjz-d.css" media="all"><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ads" src="./milkjugschoolsupplycontainer_files/ads.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="./milkjugschoolsupplycontainer_files/jquery.1.7.1.min.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="utilities" src="./milkjugschoolsupplycontainer_files/utilities.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="app" src="./milkjugschoolsupplycontainer_files/app.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore" src="./milkjugschoolsupplycontainer_files/underscore-min.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="verge" src="./milkjugschoolsupplycontainer_files/verge.min.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="fixTo" src="./milkjugschoolsupplycontainer_files/fixTo.js.download"></script><script type="text/javascript" async="" src="./milkjugschoolsupplycontainer_files/saved_resource(1)"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/utag.30.js.download" id="utag_timeinc.allyou.com_30"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/utag.4.js.download" id="utag_timeinc.allyou.com_4"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/utag.32.js.download" id="utag_timeinc.allyou.com_32"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/utag.29.js.download" id="utag_timeinc.allyou.com_29"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/utag.55.js.download" id="utag_timeinc.allyou.com_55"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/utag.265.js.download" id="utag_timeinc.allyou.com_265"></script><script type="text/javascript" async="" src="./milkjugschoolsupplycontainer_files/saved_resource(2)"></script><script type="text/javascript" async="" charset="utf-8" src="./milkjugschoolsupplycontainer_files/spxw.js.download" data-domain="SW-84350843-3" data-serverbase="http://ardrone.swoop.com/"></script><style type="text/css">.ob-tcolor{color:#555} .ob-lcolor{color:rgb(51, 122, 183)} .ob-bgtcolor{background-color:#555} .item-link-container:hover .ob-tcolor{border-color:#555} </style><link rel="preconnect" href="https://www.swpsvc.com/" crossorigin=""><link rel="preconnect" href="https://client-deploy.swpcld.com/"><link rel="preconnect" href="https://ardrone.swoop.com/"><link rel="dns-prefetch" href="https://www.swpsvc.com/"><link rel="dns-prefetch" href="https://client-deploy.swpcld.com/"><script async="" src="./milkjugschoolsupplycontainer_files/ggv2.js.download"></script><style type="text/css">.swoop-container,[class^=spx-]{box-sizing:content-box!important;background:transparent!important;border:0!important;color:#000!important;cursor:pointer!important;font-size:100%!important;font-weight:400!important;line-height:normal!important;margin:0!important;padding:0!important;position:static!important;text-decoration:none!important;text-indent:0!important;vertical-align:baseline!important;white-space:normal!important}.swoop-container div{display:block!important}.swoop-container span{display:inline!important}div.swoop-container{display:block!important}.spx-img,span.swoop-container{display:inline!important}.spx-img{background:transparent none!important;height:auto!important;width:auto!important}.spx-block{display:block!important}.spx-inline{display:inline!important}.spx-linked-text,.spx-underline{text-decoration:underline!important}.spx-linked-text{color:#256bb8!important;padding-bottom:1px!important}.spx-linked-text:hover{color:#2c89e9!important}.spx-gray-text{color:gray!important}.spx-bold{font-weight:700!important}.nr-spx-clear-fix:after,.nr-spx-clear-fix:before{content:""!important;display:table!important}.nr-spx-clear-fix:after{clear:both!important}.swoop-container .spx-button-base{display:inline-block!important;font-family:Trebuchet MS,Helvetica,sans-serif!important}.swoop-container .spx-button-base .spx-button-default{border-radius:6px!important;font-size:14px!important;text-shadow:2px 2px 0 rgba(0,0,0,.2)!important;display:table!important;border-collapse:collapse!important;position:relative!important}.swoop-container .spx-button-base .spx-button-default:hover *{background-color:rgba(0,0,0,.3)!important;color:#fff!important}.swoop-container .spx-button-base .spx-button-default.spx-button-shine-on{background-image:linear-gradient(180deg,hsla(0,0%,100%,.16) 50%,transparent 51%)!important}.swoop-container .spx-button-base .spx-button-default .spx-button-logo{border-radius:6px 0 0 6px!important;background:rgba(0,0,0,.2) url(https://client-deploy.swpcld.com/images/white-swoop-icon.dff44d8fb5f9fe8f17d85a156a6813f2.png) 50% no-repeat!important;bottom:0!important;left:0!important;position:absolute!important;top:0!important;width:33px!important}.swoop-container .spx-button-base .spx-button-default .spx-button-cta{border-radius:0 6px 6px 0!important;color:#ecf0f1!important;font-weight:700!important;line-height:17px!important;padding:6px 10px 6px 46px!important;vertical-align:middle!important}.swoop-container .spx-button-base .spx-button-classic{background-color:transparent!important;font-size:13px!important}.swoop-container .spx-button-base .spx-button-classic .spx-button-logo{border-radius:5px 0 0 5px!important;background-color:#f60!important;background-position:2px!important;background-size:16px!important;bottom:auto!important;height:12px!important;margin-top:-8px!important;padding:0!important;top:50%!important;width:16px!important}.swoop-container .spx-button-base .spx-button-classic .spx-button-cta{border-radius:5px!important;box-shadow:inset 0 2px 0 0 hsla(0,0%,100%,.2),inset 0 -3px 2px 0 rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.2)!important;background-color:#d80c2d!important;font-weight:100!important;line-height:20px!important;margin-bottom:3px!important;margin-left:16px!important;padding-left:10px!important;text-shadow:none!important}.swoop-container .spx-button-base .spx-button-classic .spx-button-cta:hover{background-color:#e63d3d!important}.swoop-container .spx-button-base .spx-button-white,.swoop-container .spx-button-base .spx-button-white-border{background-color:transparent!important;height:34px!important}.swoop-container .spx-button-base .spx-button-white-border:hover *,.swoop-container .spx-button-base .spx-button-white:hover *{background-color:transparent!important}.swoop-container .spx-button-base .spx-button-white-border .spx-button-logo,.swoop-container .spx-button-base .spx-button-white .spx-button-logo{border-radius:20px!important;transition:all .2s ease-in-out!important;background-color:#e74c3c!important;bottom:auto!important;margin-top:-16px!important;height:33px!important;top:50%!important;width:33px!important}.swoop-container .spx-button-base .spx-button-white-border .spx-button-logo:hover,.swoop-container .spx-button-base .spx-button-white .spx-button-logo:hover{background-color:#c0392b!important}.swoop-container .spx-button-base .spx-button-white-border .spx-button-cta,.swoop-container .spx-button-base .spx-button-white .spx-button-cta{transition:all .2s ease-in-out!important;color:#2980b9!important;font-size:13px!important;font-weight:700!important;padding:8px 0 8px 40px!important;text-shadow:0 0 0 #fff!important;text-decoration:underline!important}.swoop-container .spx-button-base .spx-button-white-border .spx-button-cta:hover,.swoop-container .spx-button-base .spx-button-white .spx-button-cta:hover{background-color:transparent!important;color:#2980b9!important;text-shadow:0 0 0 #fff!important;text-decoration:none!important}.swoop-container .spx-button-base .spx-button-white-border .spx-button-ad-on,.swoop-container .spx-button-base .spx-button-white .spx-button-ad-on{background:url(https://client-deploy.swpcld.com/images/ad_icon.6fc88155809a5c7f967f223d4678c25e.png) 100% no-repeat!important;padding-right:31px!important}.swoop-container .spx-button-base .spx-button-white-border{background-color:transparent!important}.swoop-container .spx-button-base .spx-button-white-border .spx-button-cta{border-radius:10px!important;background-color:#fff!important;border:1px solid #f3e0de!important;line-height:20px!important;padding:6px 10px 6px 22px!important;margin-left:16px!important}.swoop-container .spx-button-base .spx-button-white-border .spx-button-ad-on{padding-right:31px!important}.swoop-container .spx-button-seagreen{background-color:#16a085!important}.swoop-container .spx-button-midnight{background-color:#2c3e50!important}.swoop-container .spx-button-brightred{background-color:#e74c3c!important}.swoop-container .spx-button-orange{background-color:#d35400!important}.swoop-container .spx-button-green{background-color:#2ecc71!important}.swoop-container .spx-button-blue{background-color:#2980b9!important}.swoop-container .spx-button-purple{background-color:#8e44ad!important}.swoop-container .spx-ft-base{display:table!important;font-family:Trebuchet MS,Helvetica,sans-serif!important;padding:10px 0!important;text-align:left!important}.swoop-container .spx-ft-base .spx-ft-text{display:table-cell!important;max-width:360px!important;vertical-align:middle!important}.swoop-container .spx-ft-base .spx-ft-text .spx-ft-headline{line-height:28px!important;font-size:16px!important;font-weight:700!important}.swoop-container .spx-ft-base .spx-ft-text .spx-ft-headline:hover{text-decoration:underline!important}.swoop-container .spx-ft-base .spx-ft-text .spx-ft-description{font-size:13px!important;line-height:18px!important;font-weight:400!important}.swoop-container .spx-ft-base .spx-ft-text .spx-ft-isi{font-family:Arial,'sans-serif'!important;font-size:13px!important;line-height:18px!important;color:gray!important}.swoop-container .spx-ft-base .spx-ft-cta{display:table-cell!important;padding-left:10px!important;vertical-align:middle!important}.swoop-container .spx-ft-base .spx-ft-cta .spx-ft-button{background-color:#ff2e2e!important;background-repeat:no-repeat!important}.swoop-container .spx-ft-base .spx-ft-cta .spx-ft-button:hover{background-color:#ff245e!important}.swoop-container .spx-ft-base .spx-ft-cta .spx-ft-button:active{background-color:#ff2e2e!important}body div.spx_mobile_lp{background:rgba(0,0,0,.8)!important;z-index:2147483647!important}body div.spx_mobile_lp,body div.spx_mobile_lp iframe{position:fixed!important;height:100%!important;left:0!important;right:0!important;bottom:0!important;top:0!important;width:100%!important}body div.spx_mobile_lp iframe{background:transparent!important}body div.spx_landing_page{background:url(https://client-deploy.swpcld.com/images/background.97dcdc58c1e124dc8aaa4f9e175652fe.png) repeat!important;height:100%!important;left:0!important;position:fixed!important;top:0!important;width:100%!important;z-index:2147483647!important}body div.spx_landing_page>div{border-radius:6px!important;border:none!important;margin:0 auto!important;width:94%!important;height:100%!important;max-width:920px!important;min-width:920px!important;padding:0!important}body div.spx_landing_page iframe{height:100%!important;width:100%!important;min-height:500px!important;border-radius:6px!important}body div.spx_landing_page div.spx_close{cursor:pointer!important;background:url(https://client-deploy.swpcld.com/images/close_icon_sb.a2afc362ca6416fdbe2071d7ed4f27a5.png) no-repeat!important;display:block!important;height:30px!important;float:right!important;position:relative!important;width:30px!important;top:68px!important;right:-30px!important}body div.spx_landing_page div.spx_loading{background-color:transparent!important;left:50%!important;padding:20px!important;text-align:center!important;top:30px!important;width:100%!important}body div.spx_landing_page div.spx_status{background:#fff url(https://client-deploy.swpcld.com/images/loading_logo.9769bf28790d68a85a9777a5c36e1d27.gif) 50% no-repeat!important;height:167px!important;margin:7px auto!important;width:960px!important}.swoop-container{opacity:0!important;transition:opacity .2s cubic-bezier(.02,.01,.47,1)!important}.spx-iab-headline,.spx-mc-headline{color:#6d7173!important;font-size:13px!important;line-height:1em!important;margin:0 8px 16px!important}.spx-edh-container{box-sizing:border-box!important;overflow:hidden!important}.spx-edh-headline{color:#787878!important;font-size:11px!important;line-height:1em!important;margin:4px 0 0!important;overflow:hidden!important;text-transform:uppercase!important;width:300px!important}.spx-swrap{margin-bottom:2px!important;overflow:hidden!important}.spx-swrap .swoop-container .spx-adwords-iab.spx-ai-content{background-position:10px 50%!important;display:block!important;padding:18px 20px 18px 38px!important}.spx-swrap .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-headline{font-size:22px!important;line-height:26px!important}.spx-swrap .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-desc div{font-size:16px!important;line-height:24px!important}.spx-swrap .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-desc .spx-ai-b,.spx-swrap .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-desc .spx-ai-w{display:inline-block!important}.spx-swrap .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-isi{font-size:13px!important;line-height:20px!important}.spx-swrap .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-url{font-size:13px!important;padding:4px 0 2px!important}.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content{background:#fff url(https://client-deploy.swpcld.com/images/swoop-circle-logo-34.101c2f9e80ae39659ded3e69b252edb7.png) no-repeat 10px 50%!important;padding:15px 20px 15px 64px!important}.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-headline{font-size:24px!important;line-height:26px!important}.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-desc div{font-size:18px!important}.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-desc .spx-ai-b,.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-desc .spx-ai-w{display:inline-block!important;position:relative!important}.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-desc .spx-ai-arrow{background:url(https://client-deploy.swpcld.com/images/arrows-34w.fba20f907066e8fbd7510d2a5f45a712.png) no-repeat!important;height:30px!important;position:absolute!important;right:-46px!important;top:-4px!important;width:36px!important}.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-isi{font-size:14px!important;line-height:20px!important}.spx-swrap.spx-edh-728x90 .swoop-container .spx-adwords-iab.spx-ai-content .spx-ai-url{font-size:16px!important;line-height:24px!important;padding:2px 0!important}.modelListingPageContainer aside .spx-cad-wrapper{max-width:300px!important}#right-rail .spx-cad-wrapper{margin:0 37.5px!important;max-width:300px!important}@media print{.swoop-container *{display:none!important;visibility:hidden!important}}</style><style type="text/css">.swoop-container .spx-link:after,.swoop-container .spx-link:before{content:""!important;display:table!important}.swoop-container .spx-link:after{clear:both!important}.swoop-container .spx-link-wrapper{float:left!important}.swoop-container .spx-link-wrapper .spx-link-source{clear:left!important;color:#b6b6b6!important;font-size:12px!important;font-style:italic!important;font-weight:800!important;padding:5px 14px 0 0!important;text-align:right!important;text-decoration:none!important}</style></head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-123821 page-node-craft-contest-5 node-type-gallery"><div style="display: none;"><div><iframe frameborder="0" id="SPX_IFRAME_1488569702818" src="./milkjugschoolsupplycontainer_files/saved_resource.html"></iframe></div></div>
+    <div id="skip-link">
+      <a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+    <!-- Begin Metadata Object -->
+  <script type="text/javascript">
+    window.Ti = window.Ti || {};
+    window.Ti.udo_metadata = {"channel":"allyou","site_display_format":"desktop","publish_date":"2014-04-08T17:51:25+00:00","friendly_url":"http:\/\/www.allyou.com\/budget-home\/crafts\/recycled-crafts\/craft-contest_5","page_name":"19 Easy Crafts Made With Recycled Materials","site_section1":"budget home","site_section2":"crafts","content_id":"123821","template_type":"gallery","page_number":15,"slide_title":"Milk Jug School-Supply Container","newsletter_tout_id":"ay hot deals | gallery"};
+    window.Ti.udo_data_layer = ["article_teaser_type","author_name","author_type","available_app_ids","browse_refine_type","browse_refine_value","bundle_id","channel","click_id","content_id","content_package","content_package_id","content_package_section","country_code","currency_code","customer_country","customer_email","customer_first_name","customer_id","customer_state","customer_zip","display_date","event_name","food_convenience","food_cooking_method","food_courses","food_cuisine","food_dietary_considerations","food_excluded_ingredients","food_main_ingredients","food_season_occasion","franchise_name","franchise_year","franchise_list_view_type","franchise_pagination_value","franchise_sort_type","franchise_is_methodology","franchise_slide_number","friendly_url","grade_level","grocery_deals_category","grocery_deals_retailer","grocery_deals_search","grocery_deals_zip","has_continuous_service","has_donor","has_print_subscription","image_id","is_active_subscriber","is_agent_subscription","is_bill_me","is_giftee","is_renewable","language_code","login_status","magazine_cover_title","magazine_feed","magazine_issue_date","markets","page_name","page_number","primary_tag","publish_date","rr_modules","search_keyword","search_results","secondary_renewal_offer","site_display_format","site_section1","site_section2","site_section3","site_section4","site_theme","slide_title","subscriber_expiration_date","subscriber_id","subscriber_type","subscription_status","tcm_conversion_microsite","tcm_conversion_page_flow","tag_keywords","tcm_effort_key","tcm_form_error","tcm_keycode","tcm_newsletter_optin","tcm_mag_code","tcm_microsite","tcm_order_id","tcm_order_shipping_amount","tcm_order_subtotal","tcm_order_tax_amount","tcm_order_total","tcm_order_type","tcm_page_flow","tcm_payment_method","tcm_prefix","tcm_product_name","tcm_product_price","tcm_product_quantity","tcm_product_sku","tcm_product_sku_options","tcm_shipping_method","tcm_variation_id","template_type","ticker_symbol","tier_level","total_amount_due","treat_as_registered","user_actions","video_asset_id","video_franchise","video_name","video_player","video_player_type","video_segment"];
+    window.Ti.udo_map = [];
+  </script>
+<!-- End Metadata Object -->
+<!-- Begin Tealium Integration -->
+
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var utag_data = {"channel":"allyou","site_display_format":"desktop","publish_date":"2014-04-08T17:51:25+00:00","friendly_url":"http:\/\/www.allyou.com\/budget-home\/crafts\/recycled-crafts\/craft-contest_5","page_name":"19 Easy Crafts Made With Recycled Materials","site_section1":"budget home","site_section2":"crafts","content_id":"123821","template_type":"gallery","page_number":15,"slide_title":"Milk Jug School-Supply Container"};
+    //--><!]]>
+  </script>
+
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/timeinc/allyou.com/prod/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+    //--><!]]>
+  </script>
+
+  
+<!-- End Tealium Integration -->
+    <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+  
+<div class="row row-centered header-top-ad-unit hidden-lg hidden-md">
+  <div class="advertisement advertisement-responsive-header-top-ad ad-block ad-header-top" id="ad_resp_header_top_1488550732"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'ad_resp_header_top_1488550732',
+              responsive: {
+                micro: ['300x50', '320x50'],
+                small: ['300x50', '320x50'],
+                medium: ['728x90']
+              },
+              position: 1
+            });
+
+          });</script></div></div>
+
+<div class="navbar-header">
+  <div class="hidden-md hidden-lg mobile-hamburger">
+    <span aria-hidden="true" class="hamburger-toggle icon-menu icon-close"></span>
+  </div>
+  <div class="hidden-xs hidden-sm header-social-links">
+    <span class="navbar-text">Follow us:</span><ul class="social-links">
+    <li class="facebook"><a href="http://www.facebook.com/allyoumagazine" class="facebook"><span class="icon-social-facebook"></span></a></li>
+    <li class="twitter"><a href="https://twitter.com/allyou" class="twitter"><span class="icon-twitter"></span></a></li>
+    <li class="pinterest"><a href="http://pinterest.com/allyoumag/" class="pinIt"><span class="icon-pinterest"></span></a></li>
+    <li class="instagram"><a href="http://instagram.com/allyoumag" class="instagram"><span class="icon-instagram"></span></a></li>
+  </ul>  </div>
+
+    <a class="ay-logo logo navbar-btn" href="http://www.allyou.com/" title="Home"></a>
+  
+  <div class="header-right-wrapper">
+    <div class="hidden-xs hidden-sm header-subnav-links">
+      <ul class="list-inline subnav-links">
+    <li><a href="http://www.allyou.com/sweepstakes/sweepstakes-giveaways">SWEEPSTAKES</a></li>
+    <li><a href="https://subscription.allyou.com/storefront/subscribe-to-all-you/link/1030791.html">SUBSCRIBE</a></li>
+    <li><a href="https://subscription.allyou.com/storefront/subscribe-to-all-you/link/1030795.html">GIVE A GIFT</a></li>
+  </ul>    </div>
+    <span class="search-toggle icon-search"></span>
+    <div class="search-box hidden">
+      <form class="form-search content-search" action="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h3 class="element-invisible">Search form</h3>
+    <span class="search-placeholder icon-search"></span><input title="Enter the terms you wish to search for." placeholder="Type what you&#39;re looking for..." class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><button type="submit" class="search-btn-header btn btn-success">Search</button><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-Z-oX31WvLibTu7TS9_G4wJ_iwoLVh7ydaIVBUksWQGE">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>    </div>
+  </div>
+
+  <div class="collapse hamburger-menu-wrap">
+    <div class="nav-wrap-inner">
+      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="http://www.allyou.com/coupons-deals" title="">Coupons &amp; Deals</a></li>
+<li class="leaf"><a href="http://www.allyou.com/smartshopping" title="">Smart Shopping</a></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/budget-home" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Lifestyle</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/budget-home/easy-decorating" title="">Home</a></li>
+<li class="leaf"><a href="http://www.allyou.com/style-for-less" title="">Style</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/style-for-less/budget-beauty" title="">Beauty</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/food" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Food</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/food/treats" title="">Desserts &amp; Treats</a></li>
+<li class="leaf"><a href="http://www.allyou.com/food/supercheap-meals" title="">Easy Meals</a></li>
+<li class="leaf"><a href="http://www.allyou.com/food/celebrations" title="">Entertaining</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/food/recipes" title="">Recipes</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/family" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Family</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/family/pets" title="">Pets</a></li>
+<li class="leaf"><a href="http://www.allyou.com/family/family-activities" title="">Family Time</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/family/moms" title="">Mom Time</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/diet-fitness" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Health</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/diet-fitness/at-home-workouts" title="">Exercise</a></li>
+<li class="leaf"><a href="http://www.allyou.com/diet-fitness/nutrition" title="">Nutrition</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/diet-fitness/walking-plans" title="">Walking Workouts</a></li>
+</ul></li>
+<li class="leaf"><a href="http://dailysavings.allyou.com/" title="">Blog</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/food/celebrations/halloween-affordable" title="">Halloween</a></li>
+</ul><ul class="nav navbar-nav editorial-nav">
+    <li><a href="https://realitycheckers.allyou.com/">Reality Checker Central</a></li>
+    <li><a href="http://emeals.com/partners/allyou.php?affseg1=banners&amp;affseg2=AY+site+navigation&amp;affseg3=hburg">eMeals</a></li>
+    <li><a href="http://www.allyou.com/printable-coupons">Coupons.com</a></li>
+  </ul><div class="text-center subscribe-menu"><h3><a href="https://subscription.allyou.com/storefront/subscribe-to-all-you/link/1030793.html">Subscribe</a></h3><ul class="social-links">
+    <li class="facebook"><a href="http://www.facebook.com/allyoumagazine" class="facebook"><span class="icon-social-facebook"></span></a></li>
+    <li class="twitter"><a href="https://twitter.com/allyou" class="twitter"><span class="icon-twitter"></span></a></li>
+    <li class="pinterest"><a href="http://pinterest.com/allyoumag/" class="pinIt"><span class="icon-pinterest"></span></a></li>
+    <li class="instagram"><a href="http://instagram.com/allyoumag" class="instagram"><span class="icon-instagram"></span></a></li>
+  </ul></div>    </div>
+  </div>
+</div>
+  <!--@todo : Move to global-header.tpl.php -->
+      <div class="main-navigation navbar-collapse collapse">
+      <nav class="main-navigation-wrapper" role="navigation">
+        <div class="main-menu-wrapper">
+          <span aria-hidden="true" class="hamburger-toggle icon-menu icon-close"></span>
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="http://dailysavings.allyou.com/" title="">Blog</a></li>
+<li class="leaf"><a href="http://www.allyou.com/coupons-deals" title="">Coupons &amp; Deals</a></li>
+<li class="leaf"><a href="http://www.allyou.com/smartshopping" title="">Smart Shopping</a></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/budget-home" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Lifestyle <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/budget-home/easy-decorating" title="">Home</a></li>
+<li class="leaf"><a href="http://www.allyou.com/style-for-less" title="">Style</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/style-for-less/budget-beauty" title="">Beauty</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/food" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Food <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/food/recipes" title="">Recipes</a></li>
+<li class="leaf"><a href="http://www.allyou.com/food/supercheap-meals" title="">Easy Meals</a></li>
+<li class="leaf"><a href="http://www.allyou.com/food/celebrations" title="">Entertaining</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/food/treats" title="">Desserts &amp; Treats</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/family" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Family <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/family/pets" title="">Pets</a></li>
+<li class="leaf"><a href="http://www.allyou.com/family/family-activities" title="">Family Time</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/family/moms" title="">Mom Time</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="http://www.allyou.com/diet-fitness" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Health <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.allyou.com/diet-fitness/at-home-workouts" title="">Exercise</a></li>
+<li class="leaf"><a href="http://www.allyou.com/diet-fitness/walking-plans" title="">Walking Workouts</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/diet-fitness/nutrition" title="">Nutrition</a></li>
+</ul></li>
+<li class="leaf"><a href="http://www.allyou.com/magazine" title="">Magazine</a></li>
+<li class="last leaf"><a href="http://www.allyou.com/budget-home/money-shopping/holiday-gift-guide/" title="">Holiday</a></li>
+</ul>                            </div>
+        <div class="header-cm-ad-unit">
+          <div class="advertisement advertisement-responsive-header-cm-ad ad-block ad-header-cm" id="ad_resp_header_cm_1488550732"><div id="cm.aly_1" data-google-query-id="CNKpv6KKu9ICFRAVgQodgXAERQ" style="display: none;"><script type="text/javascript">googletag.pubads().collapseEmptyDivs();tgxDo.slots['ad_resp_header_cm_1488550732'] = googletag.defineSlot('/8484/cm.aly/budgethome',[[100,60]],'cm.aly_1').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', '100x60').setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('cmpos', 'globalnav').setTargeting('cmtyp', 'tout').setTargeting('pos', '1').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('cm.aly_1');</script><div id="google_ads_iframe_/8484/cm.aly/budgethome_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8484/cm.aly/budgethome_0" title="3rd party ad content" name="google_ads_iframe_/8484/cm.aly/budgethome_0" width="100" height="60" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;" src="./milkjugschoolsupplycontainer_files/saved_resource(4).html"></iframe></div></div></div>        </div>
+      </nav>
+    </div>
+    <div class="ad-container hidden-xs hidden-sm">
+    <div class="row row-centered header-bottom-ad-unit">
+      <div class="advertisement advertisement-responsive-header-bottom-ad ad-block ad-header-bottom" id="ad_resp_header_bottom_1488550732"><div id="aly_2" data-google-query-id="CLWIyaKKu9ICFUOraQodG78OBg"><script type="text/javascript">tgxDo.slots['ad_resp_header_bottom_1488550732'] = googletag.defineSlot('/8484/aly/budgethome',[[728,90],[101,1],[970,250],[970,66]],'aly_2').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', ['728x90','101x1','970x250','970x66']).setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('oop', 'yes').setTargeting('pos', '1').setTargeting('tile', '1').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('aly_2');</script><div id="google_ads_iframe_/8484/aly/budgethome_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="./milkjugschoolsupplycontainer_files/container.html" id="google_ads_iframe_/8484/aly/budgethome_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" style="border: 0px; vertical-align: bottom;"></iframe></div></div><div id="aly_2-oop" data-google-query-id="COH5waKKu9ICFVcagQodHy0FIw"><script type="text/javascript">googletag.defineOutOfPageSlot('/8484/aly/budgethome','aly_2-oop').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', ['728x90','101x1','970x250','970x66']).setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('oop', 'yes').setTargeting('pos', '1').setTargeting('tile', '1').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('aly_2-oop');</script><div id="google_ads_iframe_/8484/aly/budgethome_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8484/aly/budgethome_1" title="3rd party ad content" name="google_ads_iframe_/8484/aly/budgethome_1" width="1" height="1" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;" src="./milkjugschoolsupplycontainer_files/saved_resource(5).html"></iframe></div></div></div>    </div>
+  </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+    
+    <section class="col-sm-9">
+            <a id="main-content"></a>
+                                                                    <h2 class="title" id="page-title">19 Easy Crafts Made With Recycled Materials</h2>
+                      <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  
+<article id="node-123821" class="node node-gallery clearfix">
+      <h2 class="page-header__deck hidden-xs">Instead of throwing them out, reuse yogurt cups, cereal boxes, milk jugs, water bottles (and more!) to make easy, affordable decorations for your home.
+</h2>
+      <div class="social-container row">
+      <div class="social-buttons col-md-7 col-sm-8 col-xs-12"><ul class="list-inline"><li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5" class="facebook-btn" title="Facebook" onclick="basicPopup(this.href);return false"><span class="icon-social-facebook">
+</span></a></li>
+<li><a href="https://twitter.com/intent/tweet?text=19%20Easy%20Crafts%20Made%20With%20Recycled%20Materials%20http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5/%20via%20@allyou" class="twitter-btn" title="Twitter" onclick="basicPopup(this.href);return false"><span class="icon-twitter">
+</span></a></li>
+<li><a href="http://pinterest.com/pin/create/button/?url=http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5&amp;description=Milk%20Jug%20School-Supply%20Container&amp;media=http%3A//cdn-jpg.allyou.com/sites/default/files/image/2014/01/400xvariable/i/2013/8/milk-jug-craft-2-l.jpg" class="pinterest-btn" title="Pinterest" onclick="basicPopup(this.href);return false"><span class="icon-pinterest">
+</span></a></li>
+<li><a href="http://cgi.pathfinder.com/cgi-bin/mail/mailurl2friend.cgi?path=/shared/templates/emailafriend/allyou&amp;url=http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5&amp;group=allyou&amp;title=19%20Easy%20Crafts%20Made%20With%20Recycled%20Materials%20-%20ALL%20YOU" class="email-btn" title="Email" onclick="basicPopup(this.href);return false"><span class="icon-mail">
+</span></a></li>
+</ul></div>
+          </div>
+    <hr class="gallery-top-divider">
+  <div class="slides row">
+          <h3 class="element-invisible">Pages</h3><ul class="pager gallery__navigation-controls"><li class="gallery__navigation-controls__previous"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_6"><span class="icon-chevron-thin-left"></span></a></li>
+<li class="gallery__navigation-controls__progress-indicator">15 of 21</li>
+<li class="gallery__navigation-controls__next"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_4"><span class="icon-chevron-thin-right"></span></a></li>
+<li class="gallery__navigation-controls__view"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/view-all"><span class="icon-grid view-all-grid"></span> See All</a></li>
+</ul>        <div class="gallery-slide slide-14">
+      <div class="main-image-container">
+      <div class="overlay_pagination visible-lg visible-md">
+      <div class="pull-left"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_6"><span class="icon-chevron-thin-left"></span></a></div>
+      <div class="pull-right"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_4"><span class="icon-chevron-thin-right"></span></a></div>
+    </div>      <div class="main-image slide-image">
+        <img data-highres400-src="http://cdn-jpg.allyou.com/sites/default/files/image/2014/01/400xvariable/i/2013/8/milk-jug-craft-2-l.jpg" data-highres500-src="http://cdn-jpg.allyou.com/sites/default/files/image/2014/01/500xvariable/i/2013/8/milk-jug-craft-2-x.jpg" class="img-responsive" src="./milkjugschoolsupplycontainer_files/milk-jug-craft-2-x.jpg" alt="how make a school supply container from a milk jug">                  <span class="credit">Photo: Amy Bell</span>
+              </div>
+    </div>
+  
+  <div class="slide-content">
+          <h1 class="slide-headline">Milk Jug School-Supply Container</h1>
+        <div class="slide-deck">
+      <p data-spx-slot="1"><strong>MATERIALS:</strong> Spray paint), 1-gallon plastic jug (clean an dry, with label removed), X-acto knife, washi tape, ruler, foam board, pencil, chalkboard label.</p><!--googleoff: all--><div class="swoop-container nolinks" style="margin-top: -2px !important; margin-left: 0px !important; margin-bottom: 10px !important; padding-left: 0px !important; opacity: 1 !important; position: static;"><div class="spx-link spx-button-base" data-purpose="lp" style="display: inline-block;"> <div class="spx-link-wrapper"> <div class="spx-button-default spx-shine-off spx-button-classic"> <div class="spx-button-logo"></div> <div class="spx-button-cta spx-button-ad-"> See a Pesto Provolone Grilled Cheese Recipe </div> </div> <div class="spx-link-source">  </div> </div> </div></div><!--googleon: all-->
+
+<p>&nbsp;</p>
+
+<p><strong>1. Spray-paint outside</strong> of jug with two or three light coats and let dry.<br>
+<strong>2.&nbsp;Using X-acto knife, </strong>cut off top portion of jug, leaving handle intact and attached to bottom half of jug. Cut remaining two sides (those without handle) to 5" in height. Discard top. Cover cut edge with washi tape.<br>
+<strong>3.&nbsp;Cut a 5 1/2" square</strong> out of foam board. On each rectangle, mark midpoint of long edge, then cut a 1/4"-wide x 1 3/4"-deep notch. Slip large rectangle into jug so it extends from corner under handle to opposite corner, notch facing up. Fit second rectangle over it, notch down, so pieces interlock. Write <em>Supplies</em> on a chalkboard label and affix it to container.</p>
+
+<p>&nbsp;</p>
+
+<p><em>By Amy Bell,&nbsp;a blogger at</em>&nbsp;<a href="http://www.positivelysplendid.com/" style="line-height: 1.6em;" target="_blank"><em>positivelysplendid.com</em></a></p>
+    </div>
+  </div>
+</div>
+    <div class="clearfix"></div>
+          <h3 class="element-invisible">Pages</h3><ul class="pager gallery__navigation-controls"><li class="gallery__navigation-controls__previous"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_6"><span class="icon-chevron-thin-left"></span></a></li>
+<li class="gallery__navigation-controls__progress-indicator">15 of 21</li>
+<li class="gallery__navigation-controls__next"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_4"><span class="icon-chevron-thin-right"></span></a></li>
+<li class="gallery__navigation-controls__view"><a href="http://www.allyou.com/budget-home/crafts/recycled-crafts/view-all"><span class="icon-grid view-all-grid"></span> See All</a></li>
+</ul>      </div>
+    <footer>
+          </footer>
+    </article>
+
+</section>
+<script>
+
+      var allyou_floodlight_info = { 
+        pageName: "allyou|budget home|crafts|19 Easy Crafts Made With Recycled Materials",
+ nodeID: 123821};</script>  </div>
+      <ol class="breadcrumb"><li><a href="http://www.allyou.com/budget-home">Budget Home</a></li>
+<li><a href="http://www.allyou.com/budget-home/crafts" class="breadcrumb-sub-channel">Crafts</a></li>
+</ol>      <div class="content-footer">
+        <hr class="separator">
+<div class="row outbrain-content">
+  <div class="heading">You Might Also Like</div>
+  <div id="ob_holder" style="display: none;"><iframe id="ob_iframe" src="./milkjugschoolsupplycontainer_files/obFrame.html" style="display: none; width: 1px; height: 1px;"></iframe><script type="text/javascript" src="./milkjugschoolsupplycontainer_files/widgetGlobalEvent" charset="UTF-8" async=""></script><script type="text/javascript" src="./milkjugschoolsupplycontainer_files/widgetGlobalEvent(1)" charset="UTF-8" async=""></script><script type="text/javascript" src="./milkjugschoolsupplycontainer_files/widgetGlobalEvent(2)" charset="UTF-8" async=""></script></div><div class="OUTBRAIN" data-src="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5" data-widget-id="AR_11" data-ob-template="allyou" data-ob-mark="true" data-browser="chrome" data-os="win32" data-dynload="" data-idx="0" id="outbrain_widget_0"><div class="ob-widget ob-strip-layout AR_11">
+      <span style="position:fixed;top:-200px;">&nbsp;</span>
+    <style type="text/css">
+      /* dynamic basic css */
+.AR_11.ob-widget .ob-widget-items-container {margin:0;padding:0;}
+.AR_11.ob-widget .ob-widget-items-container .ob-clearfix {display:block;width:100%;float:none;clear:both;height:0px;line-height:0px;font-size:0px;}
+.AR_11.ob-widget .ob-widget-items-container.ob-multi-row {padding-top: 2%;}
+.AR_11.ob-widget .ob-dynamic-rec-container {position:relative;margin:0;padding;0;}
+.AR_11.ob-widget .ob-dynamic-rec-link,
+.AR_11.ob-widget .ob-dynamic-rec-link:hover {text-decoration:none;}
+.AR_11.ob-widget .ob-rec-image-container .ob-video-icon-container {position:absolute;left:0;height:20%;width:100%;text-align:center;top:40%;}
+.AR_11.ob-widget .ob-rec-image-container .ob-video-icon {display:inline-block;height:100%;float:none;opacity:0.7;transition: opacity 500ms;}
+.AR_11.ob-widget .ob-rec-image-container .ob-video-icon:hover {opacity:1;}
+.AR_11.ob-widget .ob_what{direction:ltr;clear:both;padding:5px 10px 0px;}
+.AR_11.ob-widget .ob_what a{color:#999;font-size:11px;font-family:arial;text-decoration: none;}
+.AR_11.ob-widget .ob_what.ob-hover:hover a{text-decoration: underline;}
+.AR_11.ob-widget .ob_amelia,
+.AR_11.ob-widget .ob_logo,
+.AR_11.ob-widget .ob_text_logo{vertical-align:baseline !important;display:inline-block;vertical-align:text-bottom;padding:0px 5px;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}
+.AR_11.ob-widget .ob_amelia{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px;}
+.AR_11.ob-widget .ob_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png') no-repeat center top;width:67px;height:12px;}
+.AR_11.ob-widget .ob_text_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22.png') no-repeat center top;width:67px;height:22px;}
+@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+.AR_11.ob-widget .ob_amelia{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16@2x.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px; background-size:16px 32px;}
+.AR_11.ob-widget .ob_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12@2x.png') no-repeat center top;width:67px;height:12px; background-size:67px 24px;}
+.AR_11.ob-widget .ob_text_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22@2x.png') no-repeat center top;width:67px;height:20px; background-size:67px 40px;}
+}
+.AR_11.ob-widget:hover .ob_amelia,
+.AR_11.ob-widget:hover .ob_logo,
+.AR_11.ob-widget:hover .ob_text_logo{background-position:center bottom;}
+  .AR_11.ob-widget {position:relative;}
+  .AR_11.ob-widget .ob_what{position:absolute;top:5px;right:0px;}
+  .AR_11.ob-widget .ob_what{text-align:right;}
+.AR_11.ob-widget .ob-rec-image-container .ob-rec-image {display:block;}
+      /* dynamic strip css */
+.AR_11.ob-widget .ob-rec-image-container {position:relative;}
+.AR_11.ob-widget .ob-rec-image-container .ob-image-ratio {height:0px;line-height:0px;padding-top:66.07929515418502%;}
+.AR_11.ob-widget .ob-rec-image-container img.ob-rec-image {width:100%;position:absolute;top:0;bottom:0;left:0;right:0;opacity:0;transition:all 750ms;}
+.AR_11.ob-widget .ob-rec-image-container img.ob-show {opacity:1;}
+.AR_11.ob-widget .ob-rec-image-container .ob-rec-label {position:absolute;bottom:0px;left:0px;padding:0px 3px;background-color:#666;color:white;font-size:10px;line-height:15px;}
+.AR_11.ob-widget {width:auto;min-width:360px;}
+.AR_11.ob-widget .ob-dynamic-rec-container {display:inline-block;vertical-align:top;min-width:50px;width:31.8%;box-sizing:border-box;-moz-box-sizing:border-box;}
+.AR_11.ob-widget .ob-unit.ob-rec-brandName,
+.AR_11.ob-widget .ob-unit.ob-rec-brandLogo-container,
+.AR_11.ob-widget .ob-rec-brandLogoAndName {display:inline-block;}
+.AR_11.ob-widget .ob-rec-brandLogo {width:auto;height:auto;}
+.AR_11.ob-widget .ob-rec-brandName {vertical-align:bottom;}
+.AR_11.ob-widget .ob-unit.ob-rec-brandName {vertical-align:super;}
+  .AR_11.ob-widget .ob-widget-items-container {direction: ltr;}
+  .AR_11.ob-widget .ob-dynamic-rec-container {margin-left:0;}
+  .AR_11.ob-widget .ob-dynamic-rec-container ~ .ob-dynamic-rec-container {margin:0 0 0 2.3%; }
+.AR_11.ob-widget .ob-widget-header {direction:ltr; font-weight:bold;}
+.AR_11.ob-widget .ob-unit {display:block;}
+.AR_11.ob-widget .ob-rec-text {max-height:75.0px;overflow:hidden;font-weight:bold;}
+.AR_11.ob-widget .ob-rec-source {font-style:italic;}
+.AR_11.ob-widget .ob-rec-date {font-weight:bold;}
+
+
+
+
+
+      /* dynamic customized css */
+      
+.AR_11.ob-strip-layout .ob-widget-header {font-family:inherit;font-size:16px;color:black;padding-bottom:15px;padding-top:0px;}
+.AR_11.ob-strip-layout .ob-dynamic-rec-container {max-width:227px;}
+.AR_11.ob-strip-layout .ob-rec-text {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;line-height:1.25;font-size:20px;}
+.AR_11.ob-strip-layout .ob-rec-text:hover {color:black;}
+.AR_11.ob-strip-layout .ob-rec-source {font-family:inherit;color:#888;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_11.ob-strip-layout .ob-rec-date {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_11.ob-strip-layout .ob-rec-author {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_11.ob-strip-layout .ob-rec-description {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_11.ob-strip-layout .ob-rec-brandName {font-family:inherit;padding:0px 0 0px;line-height:1.25;font-size:13px;font-weight:400;}
+.AR_11.ob-strip-layout .ob-rec-brandLogo {width:20px;height:20px;}
+    </style>
+    <style type="text/css" class="ob-custom-css">
+      .AR_11.ob-strip-layout .ob-dynamic-rec-container {max-width: 100%;} .AR_11.ob-strip-layout .ob-rec-text {  font-family: "nimbus-sans-condensed", "NimbusSanCon Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;  color: black;  padding: 3px 0 0px;  text-align: left;  font-size: 20px; max-height: 45px; line-height: 21px;}.AR_11.ob-strip-layout .ob-rec-source {  font-family: "merriweather", Georgia, "Times New Roman", Times, serif;  color: #7e7e7e;  text-align: left;  font-size: 12px; padding: 4px 0 0px;} .AR_11.ob-widget .ob_what { top: -35px;}
+    </style>
+        <div class="ob-widget-section ob-first">
+            <div class="ob-widget-header">Sponsored Content</div>
+            <ul class="ob-widget-items-container"><li class="ob-dynamic-rec-container ob-recIdx-0 ob-p" data-pos="0"><a class="ob-dynamic-rec-link" onclick="" href="http://scs.georgetown.edu/departments/50/master-of-professional-studies-in-regulatory-affairs?utm_source=Outbrain&amp;utm_medium=Native&amp;utm_campaign=FY17_PG_RA_Stu_Outbrain_Native_RAHP_3" onmousedown="this.href=&#39;http://paid.outbrain.com/network/redir?p=IOA_PwRxTLx6-c0aXuBBCU7NDaWN4yjazZDPJv6G-uQg5Ny5C0ZWU6xVypjMqnZwuDxZNLCNaqwy3yRL1t_4EWUMzdqL35hAy1gDjfgXq_v1uM66vk_tsLgBCsBbpv0nc3oPhpvzE-h-NSu9ISYnZEIU-r5Pm1wFXE_yxxDsZA58nm0hRhxAO4d4gj6Mt6a-TCeJCTQyBY16AWqdqeurQcvOKcPDt6LVQFrxF7jSEwonurY_CH_MbJeAY2dysuZNcKiT8KnI1pHIRMVDZvx9Iv1jYVafkSfEpa_6YhnLNZRArtJiSVat1Cgqr7NixRivZtlvLGX8g77IDYx1fQnxbsHTkiwAV_x30FIkxvG4xKr_Srdzl8x711f2mQ-CD1yDzwSQqr8E4wgQrHJqiK9bBuBfLUNkYyiiFMX2U5kOxhcPMl-Ub3l2g2OVjB3VFKDuAOxK7f46cDT-dfLvDy04j_DY8ZeToodsHBDJru2MGHRSX7pwbkLGZ6tBUebmtoekNQ3O2GhvreNnMqrUZjtdbTKHjj6yUtLPEyF1aJjadomIVe_AWkKxWhVhcje9_99uTLH1H0cozFZK7RO_X6jYsQ426wwDDn2CjDmGu3cpWAv_TZG3Nzr6CywA6Qd7qFfOK_gIaio3EngAata48Cyfmtt72lQDeyQlfpTeemeQe5UCM56DIL8VvF8w3tvzbHJFu3eyxn-2S9257v9-h50KCxud0L7GVcpIn2LoHvp_sS4EcmHKIEAzCOjTNO0Mwe_LGkVH8c1nv3xHNidUxE4lSmR24au_jLMhYyFVGcaVGPcemY2jJihAmce7RtAPdlyhjvFx11EfLpMqJ1fMXuqc6g&amp;c=cb939998&amp;v=3&#39;; " target="_blank" rel="nofollow">
+
+      <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+    <img class="ob-rec-image ob-show" src="./milkjugschoolsupplycontainer_files/1.0" onload="this.className+=&#39; ob-show&#39;" alt="The Growing Demand for Regulatory Professionals and How You Can Become One" title="The Growing Demand for Regulatory Professionals and How You Can Become One" onerror="OBR.extern.imageError(this)">
+          </span>
+      <span class="ob-unit ob-rec-text" data-type="Title" title="The Growing Demand for Regulatory Professionals and How You Can Become One">The Growing Demand for Regulatory Professionals and How You Can Become One</span>      <span class="ob-unit ob-rec-source" data-type="Source">Georgetown University School of Continuing Studies</span>
+
+        </a>
+    </li><li class="ob-dynamic-rec-container ob-recIdx-1 ob-p" data-pos="1"><a class="ob-dynamic-rec-link" onclick="" href="http://www.ebay.com/gds/5-diys-that-will-totally-transform-a-plain-t-shirt/58acb26fa5ab1d0836c2cd2e/g.html?roken2=ta.pU2hlRmluZHM=" onmousedown="this.href=&#39;http://paid.outbrain.com/network/redir?p=X19dd9KIrhKPH01oHN9kuFcK6y3YAF9bQQKO8baKA4qp60V1PTAOgzvaDVeBAHanx9Mk79PO3vk_ZtROw6ZWGrLUOlZwN72FV6GmySmVQXTH5P1jtYpUpAmBD-5U88xS677Y7rSktbcg9HTtl-KZriLukv4qpY7lnDECURk83GHVzoUGSWp3PQzDscfb9jpbjnbnUJ3HSqcVRYXFi3OZYNea3k1o7dTMDUQ5D82hKQKobWekc13akF5GA8alYiuwvkpzSbv7T2wbbNPtSNlvmNvbiAUAymKWJ5WwsgaynJ8KibK87gTMLILlPDGuohRAioivpAKm97kJd0NxHxat-fduDRH03UQeRHANUMFgvCL3Nvo2wdhPMmgYvA0hCQp6v3fFl1xaH-tRElzVbVrSWy9FNx89R02YbsIlkAWNpHtTVk89gtSZoxchTnfllL4sbTUkiW2O7_j03NN2hU1njlhbEuHj-SmOOi_jrFjs45EPCyeMmLeGo2DTXq5Fd6f0VcajLYuNLDQSOtkgosAoDxk5poDZhcQVG9q-kk0M4lAl9mHM_XQ_sn0vYcUxUywudO-3Qq8mTsMX3gshjL0gq35PoPrehm7sH9cv9xG60qflejy9FWkGixoP2s_tvmNDRThKpjn_zLIKcj6IlANcS5nX2pq-cnUbImGbzhf8K7U_y82lb-k2oMji7huUZ6v3HGT8Wh2DEVNDjIb8rpU-9TcNRMoQTWga-2T49qypqgUMEmNOJpIfmhkQKl0wTt0gjcpd5VkeIkkGREiDz1ZZ-2CCRnkjh6TygHwLPRKf7mVG6j0HZijQZ_Qt-DmNQfX3VPXRRRI1OIVrX98yBP5ngA&amp;c=6ca3da58&amp;v=3&#39;; " target="_blank" rel="nofollow">
+
+      <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+    <img class="ob-rec-image ob-show" src="./milkjugschoolsupplycontainer_files/1(1).0" onload="this.className+=&#39; ob-show&#39;" alt="5 DIYs That Will Totally Transform A Plain T-Shirt" title="5 DIYs That Will Totally Transform A Plain T-Shirt" onerror="OBR.extern.imageError(this)">
+          </span>
+      <span class="ob-unit ob-rec-text" data-type="Title" title="5 DIYs That Will Totally Transform A Plain T-Shirt">5 DIYs That Will Totally Transform A Plain T-Shirt</span>      <span class="ob-unit ob-rec-source" data-type="Source">eBay</span>
+
+        </a>
+    </li><li class="ob-dynamic-rec-container ob-recIdx-2 ob-p" data-pos="2"><a class="ob-dynamic-rec-link" onclick="" href="http://glassesusa.7eer.net/c/94034/52849/1546?u=https%3A%2F%2Fwww.glassesusa.com%2Fblog%2Fglassesusa-lowers-glasses-prices%3Faffid%3Dob-lp223&amp;p.utm_source=ob&amp;p.utm_medium=synd&amp;p.utm_content=00ac82497f39b3d4ade2fbc5dfa1873b11&amp;p.utm_term=gusastory-fs-fashion__00ac82497f39b3d4ade2fbc5dfa1873b11&amp;subid1=gusastory-fs-fashion__00ac82497f39b3d4ade2fbc5dfa1873b11&amp;utm_campaign=gusastory-fs-fashion" onmousedown="this.href=&#39;http://paid.outbrain.com/network/redir?p=Y9qy3Nq9oCxY-h-QDgPLd0R_J6ZBak1J8KkTO3qZB6eRpGax6rqOV-ndXFf-J64s4mz5CmLviRLQTK9dzWwLp1w5LFn0rh0qGLDAeJo-Vj1tLq1taDjD54DbhOe3Qg_ZXW7wygigoHepqXmBIapIbyZSl5oyH6fM9p4DeGphZarJe2_M2Cw9OWva2rgFZUA4ZaakNenq_AZ7ZPfC01DenC3H4ZqxQQZasZI-EjfI0x2Or52qWX-sbaN51sV4mcGc1ECIL1vmgLPEifNKkM3-Ci1hl1I93fZnXp8avz8-vkUpyi4T-9CG_pSJMMlGrS1gUUgjh-uFQhOukBF2DqHwJKnC-OcWyAgeO8qiaauTZHIUR6patotAtaZN13FYqpvItkmbwcSHC43GI8i2pzDs6e4ECZGLhATGN9T9x-0dnl_fV5O1n6WLZkrsUTD8bR9QxfW4Z2fq4u-ZZQQ3A39xsYF3tLnpaWmhVqwTV2se9jbJdEMrVAgXIZLNKXRMaXrqOitoUqYgkDTd5TBAzSel9IMn4UpCIfPaQ0AqIYdHLYmDibdDPwE3aM8bfyguOqH4B5DJ6B4KnqXvPZvNKI2-RMerd4HsI3vf6ZvIvllzIAn1gqZ2-3cc2e6kwJPfhSkk7lJqiBZHKVFW9oQOb6-I4fxkcACHUZFNu6Hrdg9Zdtib5P7xSyHMoQtXwIBCf39CP9Mb7m8zYRKBzozUKwKb9Ks3g_ItPa1kfcA_4Z6NH6Xhy4DHYM6z9TMTYaUqRpnvKWZAFlvr0MOIp3I56U_5ONQ4zjCk4S_tSY7nNS_wcQuzoK5VGkooL15_6MKSsosBjwGcq9GWI1JB5xFydPjPXVsFJcIzlAAeEjTqgCk7GpQ&amp;c=dfab0187&amp;v=3&#39;; " target="_blank" rel="nofollow">
+
+      <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+    <img class="ob-rec-image ob-show" src="./milkjugschoolsupplycontainer_files/1(2).0" onload="this.className+=&#39; ob-show&#39;" alt="This Article Will Change The Way You Buy Glasses Forever" title="This Article Will Change The Way You Buy Glasses Forever" onerror="OBR.extern.imageError(this)">
+          </span>
+      <span class="ob-unit ob-rec-text" data-type="Title" title="This Article Will Change The Way You Buy Glasses Forever">This Article Will Change The Way You Buy Glasses Forever</span>      <span class="ob-unit ob-rec-source" data-type="Source">GlassesUSA</span>
+
+        </a>
+    </li></ul><ul class="ob-widget-items-container ob-multi-row ob-row-1"><li class="ob-dynamic-rec-container ob-recIdx-3 ob-p" data-pos="3"><a class="ob-dynamic-rec-link" onclick="" href="http://beverlyhillsmd.com/cmd.php?ad=828284" onmousedown="this.href=&#39;http://paid.outbrain.com/network/redir?p=Rw2z0Tr4DBGXBrsc1xe1VS_x1IQJG1nPnEfGK2b6ElBQz4t6zMUTIe2ztMYyetn--C6kyXJXkNxWfawv9Slrhjt00THmUrj4SpulIHNfGK_ZhDKFG2Yjb3wsA2VRtOFb6my7FmQOB3AZaPH1VzLDYQckLzvx5Oj2uGB3-CXbfXXEOUws7AtGnZoupzeMXE973Eu-2oLw3wGZgQ1CzAWW_5Lh6IbOb_NCCqn1DNq-vFFKku0oFv7Z-aRDA6kendK6VxDnKOPo3zn9fN5LtVWd3blXb-ELxLHkjmP0W4OOChcD9DJIF4ZIW9YJ5l0VCC1OgWczXhVxHpdLDcA4OnqnmOLptGcgHZsr1etTPGMvAspi1IMe9z_SXJNtL4eqxjUH9nuZ4R6Z7S7XSCt-pqsI06GnoxQHvLHPNko7D8D8NObb0YEjlKVtjDic9AZw3GxoHqVKPodpaSzsmbkKJ4b4215xLXq3Z56BbRc5XVlfUrJpJ-BpZ-uKuFk9ElX85is2gSHu8AD4C3bOJYe64svLBNcbn-0N6FnYAMO1-mFXEFW2M5Cm5seZZmxQ22L8nIvP9WZbqQ9ur1OAHmw8AIj0KTfp5ytVAMwQxyt_KQvY2cUL_NrqbRn5rEmHy_fSsJkAXgh9JAlfy6AOIQT1X_iPfRJ4QE64MVXfsQir-yMtWoxfsCqs0TztuZ_xr3qGauYdGo44m70LMjmmU5onEJrZozRuvNg7c7Iwv3k5tEx2nvYpK0mrDj2PaHNYeaH2OoQToFXaD7KpJw67TRFgAscQV6BUlcdcQiaOa-LeIN9DnmWkb47rJwvg_IR-XuZ9jsFzw6u16ow1RFFFhyqSWgMOOkA1-fFFk8XtwGdw-_lEg5k&amp;c=662e9300&amp;v=3&#39;; " target="_blank" rel="nofollow">
+
+      <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+    <img class="ob-rec-image ob-show" src="./milkjugschoolsupplycontainer_files/1(3).0" onload="this.className+=&#39; ob-show&#39;" alt="How To: Get Rid of Dark Under Eye Circles [Watch]" title="How To: Get Rid of Dark Under Eye Circles [Watch]" onerror="OBR.extern.imageError(this)">
+          </span>
+      <span class="ob-unit ob-rec-text" data-type="Title" title="How To: Get Rid of Dark Under Eye Circles [Watch]">How To: Get Rid of Dark Under Eye Circles [Watch]</span>      <span class="ob-unit ob-rec-source" data-type="Source">Health Headlines</span>
+
+        </a>
+    </li><li class="ob-dynamic-rec-container ob-recIdx-4 ob-p" data-pos="4"><a class="ob-dynamic-rec-link" onclick="" href="https://ad.doubleclick.net/ddm/trackclk/N7570.1984505OUTBRAIN/B10812121.146982823;dc_trk_aid=318470969;dc_trk_cid=60002554;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=" onmousedown="this.href=&#39;http://paid.outbrain.com/network/redir?p=uBKjxpo6wb2gNSmZQ-5Dny4AyU4jJg_uO4rGgX5YCLQ2zZay-OdXeu6IjoLG3xN4Fl8OIku2aaDE2DBKUn-kePvoih17zoMi4uiCFKCSp4uWzygE1DLMtW-Wx7BW9Ca-ozXGnYj9i7ZdMQ6G6OI5g31_dCiJOgf_rmzAfH8446Bz1R2VpIVeeHEpBQ01xa6CytP_0bI4li0rCnkhsJc877EClaWFnGFOWY77y4PK75PAxrpQBzRizUK4jWoru8ulf52A7wNRMFxogk46oPIhgUFl0P40f4VyMasYPJdJZytWX6rqyeViAth6VV6L-olCmTAwo_hfDkm-apZv2On1m3MqCkX1f1g_UOH-jJGDoOAtWe3F7ZaXjMppNwLHF69zNE-xZ5gc_ZBwr3aO1_2UlaoMrWqyfSN7ASupbxU96Qfz6xJ5BJCkCYnQgeu1I3_7LeuuyJp6puGHo2ZpEa3fIrLd-g3tYJlFzqO44gIV1hYI4bVBgEvUoMkWPbXayhe5APfab11lfi0Wsld-exjvkrtriOvOYH6FS5MW_KAvzBW-yjJTkymoKalzT0YqG5D_jb4dyiu_aJDfS8lNBzBJbcSkUIytYrWBIFJfRJNQmyLWOtDqH8yBLhV7o4wAlEykb6Z8sSpDSQRKow7Cw9B01yMjoePrx9DoVEltqVwH1BZWujHOkQpox6s14T4nz0rSZoaELMu27oAvR-0xSDB2aHxn3PVSw_8KHnrMuTy0VrQeubxEY1UF9b-75Dj0TtO5bd9dOItA1FdZMDVYctFKQAg4VKX2kCVTQ9v_nXKrrmpK1XgK1XsCggRQbAbVtoXYdS8faREnJP6j91oh8B4cmQ&amp;c=ba36634b&amp;v=3&#39;; " target="_blank" rel="nofollow">
+
+      <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+    <img class="ob-rec-image ob-show" src="./milkjugschoolsupplycontainer_files/1(4).0" onload="this.className+=&#39; ob-show&#39;" alt="See Melissa McCarthy&#39;s Latest Looks for Spring" title="See Melissa McCarthy&#39;s Latest Looks for Spring" onerror="OBR.extern.imageError(this)">
+          </span>
+      <span class="ob-unit ob-rec-text" data-type="Title" title="See Melissa McCarthy&#39;s Latest Looks for Spring">See Melissa McCarthy's Latest Looks for Spring</span>      <span class="ob-unit ob-rec-source" data-type="Source">HSN</span>
+
+        </a>
+    </li><li class="ob-dynamic-rec-container ob-recIdx-5 ob-p" data-pos="5"><a class="ob-dynamic-rec-link" onclick="" href="https://blog.stitchfix.com/inside-stitchfix/10-ways-get-best-fix/?utm_source=outbrain&amp;utm_campaign=blog-post-10-ways&amp;utm_medium=cpc" onmousedown="this.href=&#39;http://paid.outbrain.com/network/redir?p=wY5_M6lhEL-t28lzshENc-M-hbfOAb5FDS8oqW4_81TJXNP0bvR0WWoXDRP3WWtNtkeByRhdZA1x_GzvPxYogHgJW5EvikjDvzISchkXwRx7xCgzGWDUNXP61PSDwyn4xloNLfaIURVreeeWuKkCdIyiZX2QedTUcNWaGM1qqxMAnS4BUsL_AuGktLVt0b-imKsM8GJfMWRovlH_adyDbn4cFh0p25thYYO0d1dVYj1mlQ4_eDg6h7MojFHeE46gkTGHDP9hSptWxgEtYwp46YeUECdZn5cZ5h0Xnm_OHSu2Pb0WEZx7UUk-J_AR3Zh-RR6SdJdwL5Jg85fbIwcLZOSp7BKkDFVRQBcGCF3co_td8TXhbbSYYDXBcSNDS6N10v1hbtAmdNDotx9lWqZ2Zxcdt4A4kxGPTnvrqP0Z4yhQhl3x4fcEgY7NrXMYRGZdg4K8EB3WUjf8TOCZyWBxW39xTvZx2VUCM0qzB9LL48Z4c3ERsW0wNdPdxsse3USXNn2R2xHP6Jd_QeNsa2UXsHxQQEiHM1nVa2uXLkM-XIQfmDtMPNHFkQnxa1dQzjFsC3CGNHro6p_WQjTIcUPV2iVjWrZQKlW4BaMo-Iq7lno_TtAgEItbQ4oh9gqDcACV56bjAKVg-1xOdZJI_M6wW4q8LJ_ATWB9dOqTHR-VRoN_fPS4uSRpeO1PRA1gDIwHC2L4EpXdEtDgBe0aAd69FJrdk-6L5TWintm8thg5sn3U9nPk89KK5w_Bjeb8PIJCdFh1CHFfOnT4IHWhDWu7t_KNIb1YeigiPsw790PDmbPYNDsHJrBd_YvG7RAcFWwiYqaGA6p3mua3UFm18pb30VEZjKyCQ1rJ49XvenaUBpc&amp;c=4b80ec85&amp;v=3&#39;; " target="_blank" rel="nofollow">
+
+      <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+    <img class="ob-rec-image ob-show" src="./milkjugschoolsupplycontainer_files/1(5).0" onload="this.className+=&#39; ob-show&#39;" alt="The 10 Most Important Things to Do If You&#39;re Using Stitch Fix" title="The 10 Most Important Things to Do If You&#39;re Using Stitch Fix" onerror="OBR.extern.imageError(this)">
+          </span>
+      <span class="ob-unit ob-rec-text" data-type="Title" title="The 10 Most Important Things to Do If You&#39;re Using Stitch Fix">The 10 Most Important Things to Do If You're Using Stitch Fix</span>      <span class="ob-unit ob-rec-source" data-type="Source">Stitch Fix</span>
+
+        </a>
+    </li></ul>
+    </div>
+                    <div class="ob_what ob-hover">
+			<a href="http://www.outbrain.com/what-is/default/en" rel="nofollow" onclick="OBR.extern.callWhatIs(&#39;http://www.outbrain.com/what-is/default/en&#39;,&#39;&#39;,-1,-1,true ,null);return false">
+  		Recommended by<span class="ob_logo" title="Outbrain - content marketing"></span>
+  	</a>
+	</div>
+      </div></div>
+</div>
+<hr class="separator">
+  <div class="row zergnet-content">
+    <div class="zergnet-widget-container"><div class="zergnet-header">from Zergnet</div><div id="zergnet-widget-28815"></div></div><script language="javascript" type="text/javascript">
+          (function() {
+          var zergnet = document.createElement("script");
+          zergnet.type = "text/javascript"; zergnet.async = true;
+          zergnet.src = "http://www.zergnet.com/zerg.js?id=28815";
+          var znscr = document.getElementsByTagName("script")[0];
+          znscr.parentNode.insertBefore(zergnet, znscr);
+          })();
+          </script>  </div>
+<div class="right-rail-full visible-sm visible-xs">
+  <div class="content-full popular-content">
+    <div class="right-rail-label">POPULAR</div>
+    <ul class="most-popular_list"><li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-article clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/free-on-birthday"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-148106" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/bday-freebies_150x150_70.jpg" width="150" height="150" alt="Birthday Freebies"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">1</div>        <a href="http://www.allyou.com/free-on-birthday"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Freebie Guide: On Your Birthday</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-gallery clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/food/supercheap-meals/cheap-vegetarian-meals"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-53581" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/tomato-tart-1875658-s.jpg" width="150" height="150" alt="Tomato-Basil Tart"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">2</div>        <a href="http://www.allyou.com/food/supercheap-meals/cheap-vegetarian-meals"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cheap Vegetarian Dinners</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-gallery clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/food/supercheap-meals/meals-under-one-dollar"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-25141" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/mashed-potato-soup-s.jpg" width="150" height="150" alt="Mashed Potato Soup"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">3</div>        <a href="http://www.allyou.com/food/supercheap-meals/meals-under-one-dollar"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Feed Your Family on the Cheap—Under $1 Per Serving</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-article clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/budget-home/organizing-cleaning/uses-for-vinegar"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-147811" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/uses-for-vinegar_150x150_74.jpg" width="150" height="150" alt="White Vinegar"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">4</div>        <a href="http://www.allyou.com/budget-home/organizing-cleaning/uses-for-vinegar"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">45 Genius Uses for Vinegar</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+</ul>  </div>
+  <div class="clearfix"></div>
+  <div class="deal-wrapper">
+    <div class="content-full sidebar-bottom-ad"> 
+      <div class="advertisement advertisement-right-rail-full-content ad-block right-rail-full-content" id="ad_resp_right_rail_full_content_1488550732"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+            ads.addSlot({
+              id: 'ad_resp_right_rail_full_content_1488550732',
+              responsive: {
+                micro:  ['300x250'],
+                small:  ['300x250'],
+                medium: ['300x250']
+              }
+            });
+          });</script></div>    </div>
+    <div class="deal-and-cmad-wrapper">
+      <div class="content-full deal-of-day-content">
+        <h3 class="right-rail-label">DEAL OF THE DAY</h3>
+        <div class="deal-of-today row">
+  <div class="deal-image col-md-4">
+    <a class="deal-url" href="http://www.allyou.com/coupons-deals/daily-free-samples/free-birthday-011516"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/save-on-birthday-party150_0.jpg" width="150" height="150" alt=""></a>
+  </div>
+  <div class="deal-content col-md-8">
+    <div class="deal-headline">
+      <a class="deal-url" href="http://www.allyou.com/coupons-deals/daily-free-samples/free-birthday-011516">Free Sample: 59 Things You Can Get for Free on Your Birthday</a>
+    </div>
+    <div class="deal-more-link"><a href="http://www.allyou.com/coupons-deals/daily-free-samples">See more good deals</a></div>
+  </div>
+</div>
+      </div>
+      <div class="content-full consumer-marketing-unit">
+        <div class="advertisement advertisement-consumer-marketing-full-content ad-block consumer-marketing-full-content" id="consumer_marketing_full_content_1488550732"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'consumer_marketing_full_content_1488550732',
+              cm: true,
+              params: {
+                cmpos: 'globalrghtcntr',
+                cmtyp: 'tout'
+              },
+              responsive: {
+                micro:  ['300x100'],
+                small:  ['300x100'],
+                medium: ['300x100']
+              }
+            });
+
+          });</script></div>      </div>
+    </div>
+  </div>
+</div>
+<div class="row content-bottom-ad row-centered">
+  <div class="advertisement advertisement-responsive-leaderboard ad-block ad-leaderboard" id="ad_resp_leaderboard_1488550731"><div id="aly_3" data-google-query-id="CPzf56KKu9ICFU-KaQodKWYOKw"><script type="text/javascript">tgxDo.slots['ad_resp_leaderboard_1488550731'] = googletag.defineSlot('/8484/aly/budgethome',[[728,90]],'aly_3').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', '728x90').setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('pos', '2').setTargeting('tile', '2').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('aly_3');</script><div id="google_ads_iframe_/8484/aly/budgethome_2__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="./milkjugschoolsupplycontainer_files/container(1).html" id="google_ads_iframe_/8484/aly/budgethome_2" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div></div>
+<div class="row newsletter-block">
+  <div class="newsletter-content">
+    <div class="nl-heading">SIGN UP FOR OUR NEWSLETTERS</div>
+    <p class="nl-sub-heading">Get deals, tips and special offers delivered to your inbox!</p>
+    <div class="mobile-nl-heading">Get Valuable Coupons Delivered to Your Inbox!</div>
+    <form action="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5" method="post" id="ti-lsg-ay-newsletters-signup-responsive-form" accept-charset="UTF-8"><div><div id="thankyou-text"></div><div id="edit-sub" class="form-checkboxes"><div class="form-item form-item-sub-2082139420 form-type-checkbox checkbox"> <label class="control-label" for="edit-sub-2082139420"><input type="checkbox" id="edit-sub-2082139420" name="sub[2082139420]" value="2082139420" class="form-checkbox">Money-Saving Recipes </label>
+</div><div class="form-item form-item-sub-2083236515 form-type-checkbox checkbox"> <label class="control-label" for="edit-sub-2083236515"><input type="checkbox" id="edit-sub-2083236515" name="sub[2083236515]" value="2083236515" class="form-checkbox">Daily Free Sample </label>
+</div><div class="form-item form-item-sub-2075662315 form-type-checkbox checkbox"> <label class="control-label" for="edit-sub-2075662315"><input type="checkbox" id="edit-sub-2075662315" name="sub[2075662315]" value="2075662315" class="form-checkbox">Love to Save </label>
+</div></div><div class="form-item form-item-email form-type-textfield form-group"> <label class="control-label" for="edit-email"><span class="form-required" title="This field is required.">*</span></label>
+<input onfocus="if (this.value == &#39;Enter your email&#39;) {this.value = &#39;&#39;;}" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Enter your email&#39;;}" class="form-control form-text required" type="text" id="edit-email" name="email" value="Enter your email" size="60" maxlength="128"></div><input type="hidden" name="aid" value="2075662312">
+<input type="hidden" name="ALLYOU_SOURCE" value="AY_Footer_Responsive">
+<input type="hidden" name="n" value="3">
+<input type="hidden" name="re">
+<button type="submit" id="edit-submit--2" name="op" value="Sign up" class="btn btn-default form-submit">Sign up</button>
+<input type="hidden" name="form_build_id" value="form-HMah4bXLOyNktYYhyz8qnFHI31OMSvXQWsyBs_RJP10">
+<input type="hidden" name="form_id" value="ti_lsg_ay_newsletters_signup_responsive_form">
+</div></form>  </div>  
+</div>
+<div class="row more-from-allyou">
+  <div class="heading">More From All You</div>
+  <ul class="most-popular_list"><li><!-- node--tout-75x75.tpl.php -->
+<aside class="node node-article clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/free-on-birthday"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-148106" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-thumb field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/bday-freebies_75x75_74.jpg" width="75" height="75"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+                <a href="http://www.allyou.com/free-on-birthday"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Freebie Guide: On Your Birthday</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-75x75.tpl.php -->
+<aside class="node node-gallery clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/food/supercheap-meals/cheap-vegetarian-meals"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-53581" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-thumb field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/tomato-tart-1875658-t.jpg" width="75" height="75" alt=""></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+                <a href="http://www.allyou.com/food/supercheap-meals/cheap-vegetarian-meals"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cheap Vegetarian Dinners</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-75x75.tpl.php -->
+<aside class="node node-gallery clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/food/supercheap-meals/meals-under-one-dollar"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-25141" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-thumb field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/mashed-potato-soup-t.jpg" width="75" height="75" alt=""></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+                <a href="http://www.allyou.com/food/supercheap-meals/meals-under-one-dollar"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Feed Your Family on the Cheap—Under $1 Per Serving</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-75x75.tpl.php -->
+<aside class="node node-article clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/budget-home/organizing-cleaning/uses-for-vinegar"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-147811" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-thumb field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/uses-for-vinegar_75x75_72.jpg" width="75" height="75" alt=""></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+                <a href="http://www.allyou.com/budget-home/organizing-cleaning/uses-for-vinegar"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">45 Genius Uses for Vinegar</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+</ul></div>
+      </div><!-- /#footer-content -->
+    </section>
+
+          <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right" role="complementary">
+        
+<div class="right-rail-block newsletter-block">
+  <div class="newsletter-content">
+    <h3 class="show">Get Valuable Coupons Delivered to Your Inbox!</h3>
+    <form class="form-inline" action="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5" method="post" id="ti-lsg-ay-newsletters-right-rail-signup-form" accept-charset="UTF-8"><div><div id="thankyou-text"></div><div class="form-item form-item-email form-type-textfield form-group"> <label class="control-label" for="edit-email--2"><span class="form-required" title="This field is required.">*</span></label>
+<input onfocus="if (this.value == &#39;Enter your email&#39;) {this.value = &#39;&#39;;}" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Enter your email&#39;;}" class="form-control form-text required" type="text" id="edit-email--2" name="email" value="Enter your email" size="60" maxlength="128"></div><input type="hidden" name="aid" value="2075662312">
+<input type="hidden" name="ALLYOU_SOURCE" value="AY_Right_Rail_Responsive">
+<input type="hidden" name="n" value="3">
+<input type="hidden" name="re">
+<button type="submit" id="edit-submit--3" name="op" value="Sign up" class="btn btn-default form-submit">Sign up</button>
+<input type="hidden" name="form_build_id" value="form-dzvwD2kWTl1vc1Hp-QfLypP6TV9HSGTAMz4iVUH4F5Y">
+<input type="hidden" name="form_id" value="ti_lsg_ay_newsletters_right_rail_signup_form">
+</div></form>  </div>
+</div>
+
+<div class="right-rail-block right-rail-top-ad">
+  <div class="advertisement advertisement-right-rail-top-ad ad-block ad-right-rail-top" id="ad_resp_right_rail_top_1488550732"><div id="aly_4" data-google-query-id="CPOeh6OKu9ICFZsYKgodke0NGg"><script type="text/javascript">tgxDo.slots['ad_resp_right_rail_top_1488550732'] = googletag.defineSlot('/8484/aly/budgethome',[[300,250],[300,600],[300,1050]],'aly_4').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', ['300x250','300x600','300x1050']).setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('pos', '1').setTargeting('tile', '3').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('aly_4');</script><div id="google_ads_iframe_/8484/aly/budgethome_3__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 600px;"><iframe frameborder="0" src="./milkjugschoolsupplycontainer_files/container(2).html" id="google_ads_iframe_/8484/aly/budgethome_3" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="600" data-is-safeframe="true" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div></div>
+
+<div class="right-rail-block outbrain-content">
+  <h3 class="right-rail-label">FROM OUR PARTNERS</h3>
+  <div class="OUTBRAIN" data-src="http://www.allyou.com/budget-home/crafts/recycled-crafts/craft-contest_5" data-widget-id="SB_11" data-ob-template="allyou" data-ob-mark="true" data-browser="chrome" data-os="win32" data-dynload="" data-idx="1" id="outbrain_widget_1"><div class="ob_strip_container SB_11">
+	<span class="ob_empty"><wbr></span>
+<style type="text/css">
+.voterDiv .ob_bctrl{display:none;}
+.ob_pdesc IMG{border:none;}
+.SB_11 .ob_what{direction:ltr;text-align:right;clear:both;padding:5px 10px 0px;}
+.SB_11 .ob_what a{color:#999;font-size:10px;font-family:arial;text-decoration: none;}
+.SB_11 .ob_what.ob-hover:hover a{text-decoration: underline;}
+.SB_11 .ob_clear{clear:both;}
+.SB_11 .ob_amelia,
+.SB_11 .ob_logo,
+.SB_11 .ob_text_logo
+{display:inline-block;vertical-align:text-bottom;padding:0px 5px;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}
+
+.SB_11 .ob_amelia{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px; }
+.SB_11 .ob_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png') no-repeat center top;width:67px;height:12px; }
+.SB_11 .ob_text_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22.png') no-repeat center top;width:67px;height:22px; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+.SB_11 .ob_amelia{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16@2x.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px; background-size:16px 32px;}
+.SB_11 .ob_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12@2x.png') no-repeat center top;width:67px;height:12px; background-size:67px 24px;}
+.SB_11 .ob_text_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22@2x.png') no-repeat center top;width:67px;height:22px; background-size:67px 44px;}
+}
+.SB_11:hover .ob_amelia,
+.SB_11:hover .ob_logo,
+.SB_11:hover .ob_text_logo{background-position:center bottom;}
+	.SB_11 .ob_container{width:100%;position:relative;overflow:hidden;}
+.SB_11 .strip-img{width:125px;height:90px;border:none !important;margin:0px !important;display:block;padding:0px !important;}
+.SB_11 .item-link-container{text-decoration:none;}
+.SB_11 .strip-rec-link-title{font-size:13px;font-weight:normal;line-height:16px;}
+.SB_11 .strip-rec-link-source{font-size:12px;line-height:16px}
+.SB_11 .strip-like{padding-bottom:4px;font-size:14px;line-height:16px;height:20px;font-weight:bold;}
+.SB_11 .item-container a,.SB_11 .item-container a:hover,.SB_11 .item-container a:visited{border:medium none;text-decoration:none;}
+.SB_11 .ob_video{border:medium none;position:absolute;top:5px;left:5px}
+.SB_11 .ob-rec-link-img{position:relative;}
+.SB_11 .wbr:before {content: \"\200B\"}
+.SB_11 .ob_container_recs{width:100%;position:absolute;}
+.SB_11 .ob_container_recs A{display:inline;direction:ltr;text-align:left;}
+.SB_11 .ob-text-content A{width:100%;padding:0px 0px;}
+.SB_11 .ob-text-content{padding-top:6px;}
+.SB_11 .item-container A.ob-text-content{display:block;}
+.SB_11 .ob_container_recs .item-container{float:left;direction:ltr;width:127px;margin-bottom:300px;padding-right:10px;}
+.SB_11 .ob_container_recs .ob-last{padding-right:0px;}
+.SB_11 .ob_container_shadow_outer{position:static;width:100%;}
+.SB_11 .ob_container_shadow .item-container-shadow{position:static;overflow-x:hidden;width:0px;float:left;direction:ltr;}
+.SB_11 .ob_container_shadow .item-container{width:127px;visibility:hidden;float:left}
+.SB_11 .item-container-ad .paid-distribution {border-color:#FFF;border-style:solid;border-width:2px 2px 0 0;color:#FFF;float:left;direction:ltr;font-family:verdana,arial,sans-serif;font-size:9px;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:normal;line-height:normal;padding:2px 4px; position:relative; top:-18px; z-index:10;clear:both;}
+.SB_11 .item-container-ad .ob-text-content{position: relative;top:-19px;clear:both}
+.SB_11 .ob-oc-label {border-color:#FFF;border-style:solid;border-width:2px 2px 0 0;color:#FFF;float:left;direction:ltr;font-family:verdana,arial,sans-serif;font-size:9px;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:normal;line-height:normal;padding:2px 4px; position:relative; top:-18px; z-index:10;clear:both;}	</style>
+<style type="text/css" class="ob-custom-css">
+.OUTBRAIN .SB_11 .ob_container_recs .item-container {
+width: 47%;
+margin-bottom: 2%;
+padding-right: 0;
+margin-right: 6%;
+min-height: 190px;
+}
+
+.OUTBRAIN .SB_11 a.ob-even .item-container {
+margin-right: 0;
+}
+
+.OUTBRAIN .SB_11 .ob_container_recs {
+position: relative;
+}
+
+body .SB_11 a:hover .strip-rec-link-title  {
+  text-decoration: underline;
+}
+
+.SB_11 .strip-rec-link-title {
+  font-family: "nimbus-sans-condensed", "NimbusSanCon Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 21px;
+  color: #000;
+}
+
+.SB_11 .rec-src-link h5 {display: none;}
+.OUTBRAIN .SB_11 .strip-img {width: 100%; height: auto;}
+
+.SB_11 .strip-rec-link-source {
+    color: #7e7e7e !important;
+    font-family: "merriweather", Georgia, "Times New Roman", Times, serif;
+    font-size: 12px;
+    font-style: italic;
+    line-height: 21px;
+}
+
+.SB_11 .ob_source h5 {display: none;}
+
+.ob_strip_container.SB_11 {
+margin: 2% 0 0 0;
+}
+
+.OUTBRAIN .SB_11 a:nth-child(-n+2) .ob-text-content {
+height: 70px;
+}
+
+.OUTBRAIN .SB_11 a:nth-child(n+3) .ob-text-content {
+height: auto;
+}
+
+.OUTBRAIN .SB_11 a:nth-child(n+3) .item-container {
+margin-bottom: 2px!important;
+}
+
+.OUTBRAIN .SB_11 .ob-rec-link-img {
+border: solid 1px #ddd;
+}
+
+.OUTBRAIN .SB_11 .item-container-ad .paid-distribution {
+border-color: #FFF; 
+border-style: none;
+border-width: 0 0 0 0;
+opacity: .7;
+top: -16px;
+left: 1px;
+}
+</style>
+	<span class="ob_org_header">
+
+</span>		    <div class="ob_container">
+	<div class="ob_container_recs">
+                        <a class="item-link-container ob-odd" href="http://www.allyou.com/budget-home/money-shopping/be-a-product-tester?xid=Outbrain_AllYou_GalleryRR" data-redirect="http://traffic.outbrain.com/network/redir?p=nBuFrS3NzLIMq0CiFPYl-nqrlZQazYoug3E6YDwmuNndWnir6i_GncFEloQTi34wNDFMkdZ_OuwvWG4EDgHXyLKxbvyego0r_VIsXQnvthJ_H7CJVj7fP8GFECR3Z0fCUg-XRQbDAaJsm6GX_hz9TBNU-0f_nSeay2sViGljSYKqfi1jS-zvV4THsrNpKZNU-56fdWnLnfQTE9Y4-yQpvUEq3P1zs6OSFwCSwma0gU3_y37hJrhpiuao8kTH38SH4vwgc23mWsqAcW9ujbyXnmzYZy76vOKPm4SHvA6jwLrG3hqjFsRhRaQRoOV6jTiJpSC-le12wvCOy0Z2zZcb2Cv1IUbsSolqPNVFSpma9eWi_AN_u81H9I9yJno7sqc_ymuxzDoM-HBF5Fhc0JI0LA2xFuCXqpPVrrbK9_0DoEOaH29Pa_ioKjM79IoI86MHNHUtz5ksJq9kdP28qYH9YD4iD7Ye_VfhwQmUmIyrXZcxG9DSldusPe4Gx1m-hdED7KWdEjtiLIhObaZOruN24aX2x2EiU_5S3fAOJ2ex5KFVq0bdSQx4dTuSiPgYEUiJwiAQ3eSYEonwiieL8g0bNFW817xNXLjnqvEtbl0Wi4ElniWmH0hlfgEK8fQbTDfrcNqMUHKV17sA_BNrIgv6x0gQ-WNsXtigcTmmvnq7nJfLlISp9xUHTt3keiTqTrq79T4zsoyuct1-9y0jvXUwEytlqVqHkI6He0bn-83-EoE-0H3ComWWdjZI7eMoKu4E&amp;c=9136a41c&amp;v=3" onclick="" onmousedown="OBR.extern.recClicked(event,this);" target="_self" rel="">
+    <div class="item-container ob-recIdx-0     ob-o">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="How To Become a Product Tester and Earn Rewards" class="strip-img" alt="How To Become a Product Tester and Earn Rewards" src="./milkjugschoolsupplycontainer_files/1(6).0" onerror="OBR.extern.imageError(this)">
+                        </div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="How To Become a Product Tester and Earn Rewards">How To Become a Product Tester and Earn Rewards</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">All You<h5> - Budget Home</h5></span>
+    </div>
+    </div>                        </div>
+</a>                    <a class="item-link-container ob-even" href="http://www.travelandleisure.com/articles/johnny-depp-dogs-australia-jail?xid=Outbrain_AllYou_GalleryRR" data-redirect="http://traffic.outbrain.com/network/redir?p=OuDZsJd5NuL6mQyRq69aYNIHLXslNeHsKmqo-iyizi73AsPd9QSWWQufY5KOHqtgyPQlpUiCZ52e-IlAc5dO4MqulADvlB04m1sGfYeEcuD87T6KoAFkOXTzNRpSV4idK08OQvVd56FFW8OuNVfwi7-v-23vlzB2Hn0OaSBmji2puUAOD9rcQWxgarHKpkGAr1LVcEJR5h_W59592tPRFqGcUPBi_ZQn4UXJeRIRMrCVBQDeQFgvKbV9R9PSpzWobzrMh4ggoZsEbbfX8IYDVhHTAT-ym4EEEzhHYATDGdEKtnQaG47IvYSyst1hZIGwMB5CjMc-L3vPwiJ6yIgQT-k0HbDcnx9N_rx58zesNmNPdjX_4yvmnHnxGG_7eORlwSgKeCdAlHKDjubRZb_woKbWib7IlzNaZcJXwgxmaRj5Z35EVc35ee6JYkN1ZQ35ABgyZFfgvuObSPXCai4LkEiPzlfCnLufbbKC3CZG4Zbo0dTC5y93KiYDVBtnMKG2KPDwMyZ7IrFAh-cMwaK99jNZL7ZEBzAE0FA6JhDbeZEWhxaQ1CVRKsERVdWefUhJ9KKAK99fVXEbwAmQHR0JVofBi2zKLxafJektcTSD7PQW7G4s4N1rDyxb1SQWH13slDb6dHNZ3_aOxIXg4lisSfR90HgIqsssZd1P9muY2XhI3Rnv5KGbo9e6paEQpvMTe-nPahdUncZ9S8ECr32bFl8BfPVKTZc-RJ80G4f_5hFaODMoUbkTBw_uUXWAPLAYtmwrncGJiuCubN9ii_H--w&amp;c=16e37f75&amp;v=3" onclick="" onmousedown="OBR.extern.recClicked(event,this);" target="_blank" rel="">
+    <div class="item-container ob-recIdx-1     ob-o">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="Johnny Depp Faces up to 10 Years in Jail for Bringing His Dogs on Vacation" class="strip-img" alt="Johnny Depp Faces up to 10 Years in Jail for Bringing His Dogs on Vacation" src="./milkjugschoolsupplycontainer_files/1(7).0" onerror="OBR.extern.imageError(this)">
+                        </div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="Johnny Depp Faces up to 10 Years in Jail for Bringing His Dogs on Vacation">Johnny Depp Faces up to 10 Years in Jail for…</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">Travel + Leisure</span>
+    </div>
+    </div>                        </div>
+</a>                    <a class="item-link-container ob-odd" href="https://www.nerdwallet.com/ur/?nw_campaign_id=148158426713614900&amp;utm_campaign=cc_mktg_paid_013117_blt_wl_ob&amp;utm_source=ob&amp;utm_medium=ntv&amp;utm_content=1&amp;mktg_img=519&amp;mktg_hline=3129&amp;" data-redirect="http://paid.outbrain.com/network/redir?p=lUOf5YLjGYVbBkOg-9wtUyZ0DL5eDCRgkuF64MXkMkrSKngdkO1lsD-78HBUw-e_2wwyLNJ3KECXOR5CL2whHnZWKzi4xPETi502qO4c14ZVJ7UjCujNmQGs254GGyr0fmVlA_KSiZ3JGIME-GzEU0m2kIYaRHPaqXKVKe4DcNX4R0gw10JBR_tQYSg7hiMvRk88rCJtntTjCFPNeRYBPUiZSLM9b4JXmLqrtPD0ZKM5xU5hAElW01E27bP2lcCbWdx2vvL2_yfUKfj-R5WAe5pWSMjRYmJprh3cbi-NDaKVzplFE4myC3O6AXfBOA6wm6bW7OIA6ZlUwmMUl0QfiW9pTt1fzC9XIB81YgYWW3_rErEv9RsyJNpWK1qZE8T9OQyTU9wbxeNimvmwDqjCHvrgleGQk69w6oPcshh8uIyL3rUZSigYRdtH2ln5YjzmeeOhYXc01-iWbEiWF2wU9Jnad3Hq_10AjQzqQ_W1DNELNPkfU5HjyvM2KK-JkX_5RwtrlWaKs1lFC5cKiQ1_4ApWx5-5VPYn12547YTexl2ugOCalxBxbYtijiyAb6wwkhi5CcyD1cqSDwa20400cRINcZHk348Wzsd_kWEsi6YwH6Om5c66fxTXLs0MDm4UnY5v2lKXgw3S5mGqNKs5DknDjxSrPaLN1ca42ekKe-h3AnmmrgpNiHu-1qw8o_5qETK438snfjmOS_w3DgQBHd0jT-7M_zveekTgtQWuSqXlW3hqwA6tNRs_cIf5rRpIQS3uZNrlGRVuj3WK-_3np7jjyqAb8MkDI9Ccbc8FlVLc8p8tC-yxnQ6xS7lSfqpgvjcafNh9904gFTjZvQlJt7uJegwjQaJC0FMc7w2R5TA&amp;c=eb32bbc7&amp;v=3" onclick="" onmousedown="OBR.extern.recClicked(event,this);" target="_blank" rel="nofollow">
+    <div class="item-container ob-recIdx-2  item-container-ad   ob-p">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="These Cards Help Wipe Out $10,000 In Credit Card Debt" class="strip-img" alt="These Cards Help Wipe Out $10,000 In Credit Card Debt" src="./milkjugschoolsupplycontainer_files/1(8).0" onerror="OBR.extern.imageError(this)">
+                        </div>
+		<div class="paid-distribution ob-bgtcolor" onclick="OBR.extern.callWhatIs(&#39;NA&#39;,&#39;&#39;,-1,-1,true,null);return false">
+		Promoted
+		</div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="These Cards Help Wipe Out $10,000 In Credit Card Debt">These Cards Help Wipe Out $10,000 In Credit Card…</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">NerdWallet</span>
+    </div>
+    </div>                        </div>
+</a>                    <a class="item-link-container ob-even" href="http://ggmvi.voluumtrk.com/1ca2c477-4107-4dfe-bcaa-5e699350fd33?ad=O&amp;s2=US_Desktop_Whitelist|implant108|" data-redirect="http://paid.outbrain.com/network/redir?p=T2ABbaiblDPK4tZHg6NialPZ2RoaDEy__1aIQoMcw0d2JpCjJtVKpJkM8AhqiuU1se3wFLlZWpJbLeSmPGTM_Efk0O9r7RVn5d-my9gHNJH3Pvpa0zlqNGNZQRH8dd50J4IVHRABDeHcLH5SrAgttidbansjGlo1rnEb46z5m7MaTUGthUZAu1Bdn4Hdf9zavs1Bx_z9qAuHKekzGSv3HMjoOv3Wty3g_UXl_Lc9Ka7017aHrYrBIgFgqFVSfa0nK5nm-M4HE-aiXbmyAji76V9PASES7gDw0SLLKbg6DsWG6CETgx9AhlDs7Pqlq0my9eOCJ4vOge_Cxx9NF79buJItgcIojWOrYvbYBaQ-SxoCCPC2u04UgtCOHiFAjm8s6Ru96d8537_6fQq2f1hoPuIJLlE5mc7YWP7ejwiTkrazRuIAbmO4AeOL790hH_nJKD6GHTPgltFic4RaRaItOHSYOvrRZ-aaugIw1jjFn1lnaB_IOzYRSO0VO4kFF_YcV5pc5SOtJAEv7j1aSSnAXpejfSPb-e1Dk5ZiUwTd8TqPsHsyoNPCEf3ZUjf3J87QDDoRVzm_AJGxq9V6VDSUEJi73tX5tJhfNEa-09ZWdjUPSwbQAnKGTmMJxcVJEeWksECDafJXAniUqFdzK49oBKPk1rlxTkmUH9ck-vQxQV_fbFL8Mqnb5gXU1qCeVN8hr8PMNigaz9wYR2wqm7gR4-AQRH2sxJByIMjttuzuCEmQFc4ikQ7-zuHYGLStiC4-3_USme9ihMvNc2GCYZOwUHNJgJHyztoJPGJV4dgbxfTpP1-ZbErtdT3WxxAQnjs0&amp;c=1ba9810e&amp;v=3" onclick="" onmousedown="OBR.extern.recClicked(event,this);" target="_blank" rel="nofollow">
+    <div class="item-container ob-recIdx-3  item-container-ad  ob-last   ob-p">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="Here&#39;s What New Dental Implants Should Cost You - View Pricing &amp; Dentist Information" class="strip-img" alt="Here&#39;s What New Dental Implants Should Cost You - View Pricing &amp; Dentist Information" src="./milkjugschoolsupplycontainer_files/1(9).0" onerror="OBR.extern.imageError(this)">
+                        </div>
+		<div class="paid-distribution ob-bgtcolor" onclick="OBR.extern.callWhatIs(&#39;NA&#39;,&#39;&#39;,-1,-1,true,null);return false">
+		Promoted
+		</div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="Here&#39;s What New Dental Implants Should Cost You - View Pricing &amp; Dentist Information">Here's What New Dental Implants Should Cost You -…</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">New Dental Implants</span>
+    </div>
+    </div>                        </div>
+</a>            </div>
+<div class="ob_container_shadow_outer">
+    <div class="ob_container_shadow">
+                                    <div class="item-container-shadow ob-recIdx-0   ob-odd">
+    <div class="item-container ob-recIdx-0   ">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="How To Become a Product Tester and Earn Rewards" class="strip-img" alt="How To Become a Product Tester and Earn Rewards" src="./milkjugschoolsupplycontainer_files/1(6).0" onerror="OBR.extern.imageError(this)">
+            </div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="How To Become a Product Tester and Earn Rewards">How To Become a Product Tester and Earn Rewards</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">All You<h5> - Budget Home</h5></span>
+    </div>
+    </div>    </div>
+</div>                            <div class="item-container-shadow ob-recIdx-1  ob-even">
+    <div class="item-container ob-recIdx-1   ">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="Johnny Depp Faces up to 10 Years in Jail for Bringing His Dogs on Vacation" class="strip-img" alt="Johnny Depp Faces up to 10 Years in Jail for Bringing His Dogs on Vacation" src="./milkjugschoolsupplycontainer_files/1(7).0" onerror="OBR.extern.imageError(this)">
+            </div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="Johnny Depp Faces up to 10 Years in Jail for Bringing His Dogs on Vacation">Johnny Depp Faces up to 10 Years in Jail for…</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">Travel + Leisure</span>
+    </div>
+    </div>    </div>
+</div>                            <div class="item-container-shadow ob-recIdx-2   ob-odd">
+    <div class="item-container ob-recIdx-2  item-container-ad ">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="These Cards Help Wipe Out $10,000 In Credit Card Debt" class="strip-img" alt="These Cards Help Wipe Out $10,000 In Credit Card Debt" src="./milkjugschoolsupplycontainer_files/1(8).0" onerror="OBR.extern.imageError(this)">
+            </div>
+		<div class="paid-distribution ob-bgtcolor" onclick="OBR.extern.callWhatIs(&#39;NA&#39;,&#39;&#39;,-1,-1,true,null);return false">
+		Promoted
+		</div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="These Cards Help Wipe Out $10,000 In Credit Card Debt">These Cards Help Wipe Out $10,000 In Credit Card…</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">NerdWallet</span>
+    </div>
+    </div>    </div>
+</div>                            <div class="item-container-shadow ob-recIdx-3  ob-even">
+    <div class="item-container ob-recIdx-3  item-container-ad  ob-last ">
+        <div class="ob-rec-link-img ob-tcolor">
+            <img onload="this.style.visibility=&#39;&#39;" width="125" height="90" title="Here&#39;s What New Dental Implants Should Cost You - View Pricing &amp; Dentist Information" class="strip-img" alt="Here&#39;s What New Dental Implants Should Cost You - View Pricing &amp; Dentist Information" src="./milkjugschoolsupplycontainer_files/1(9).0" onerror="OBR.extern.imageError(this)">
+            </div>
+		<div class="paid-distribution ob-bgtcolor" onclick="OBR.extern.callWhatIs(&#39;NA&#39;,&#39;&#39;,-1,-1,true,null);return false">
+		Promoted
+		</div>
+<div class="ob-text-content">
+            <div class="strip-rec-link-title ob-tcolor" title="Here&#39;s What New Dental Implants Should Cost You - View Pricing &amp; Dentist Information">Here's What New Dental Implants Should Cost You -…</div>
+        <div class="strip-rec-link-source ob-lcolor">
+        <span class="ob_source">New Dental Implants</span>
+    </div>
+    </div>    </div>
+</div>                        </div>
+</div>	</div>
+				<div class="ob_what ob-hover">
+			<a href="http://www.outbrain.com/what-is/default/en" rel="nofollow" onclick="OBR.extern.callWhatIs(&#39;http://www.outbrain.com/what-is/default/en&#39;,&#39;&#39;,-1,-1,true ,null);return false">
+  		Recommended by<span class="ob_logo" title="Outbrain - content marketing"></span>
+  	</a>
+	</div>
+		</div></div>
+</div>
+
+<div class="right-rail-block popular-content">
+  <h3 class="right-rail-label">POPULAR</h3>
+  <ul class="most-popular_list"><li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-article clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/free-on-birthday"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-148106" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/bday-freebies_150x150_70.jpg" width="150" height="150" alt="Birthday Freebies"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">1</div>        <a href="http://www.allyou.com/free-on-birthday"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Freebie Guide: On Your Birthday</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-gallery clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/food/supercheap-meals/cheap-vegetarian-meals"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-53581" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/tomato-tart-1875658-s.jpg" width="150" height="150" alt="Tomato-Basil Tart"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">2</div>        <a href="http://www.allyou.com/food/supercheap-meals/cheap-vegetarian-meals"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cheap Vegetarian Dinners</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-gallery clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/food/supercheap-meals/meals-under-one-dollar"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-25141" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/mashed-potato-soup-s.jpg" width="150" height="150" alt="Mashed Potato Soup"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">3</div>        <a href="http://www.allyou.com/food/supercheap-meals/meals-under-one-dollar"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Feed Your Family on the Cheap—Under $1 Per Serving</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+<li><!-- node--tout-150x150.tpl.php -->
+<aside class="node node-article clearfix">
+  <div class="content">
+          <a href="http://www.allyou.com/budget-home/organizing-cleaning/uses-for-vinegar"><div class="tout-image"><div class="field field-name-field-tout-image field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+<article id="node-147811" class="node node-image clearfix">
+          
+  <div class="field field-name-field-image-150x150 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/uses-for-vinegar_150x150_74.jpg" width="150" height="150" alt="White Vinegar"></div></div></div>    <footer>
+          </footer>
+    </article>
+</div></div></div></div></a>
+    
+          <h3>
+        <div class="popular_count">4</div>        <a href="http://www.allyou.com/budget-home/organizing-cleaning/uses-for-vinegar"><div class="tout-headline"><div class="field field-name-field-tout-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">45 Genius Uses for Vinegar</div></div></div></div></a>
+      </h3>
+      </div>
+</aside>
+</li>
+</ul></div>
+
+<div class="right-rail-block deal-of-day-content">
+  <h3 class="right-rail-label">DEAL OF THE DAY</h3>
+  <div class="deal-of-today row">
+  <div class="deal-image col-md-4">
+    <a class="deal-url" href="http://www.allyou.com/coupons-deals/daily-free-samples/free-birthday-011516"><img class="img-responsive" src="./milkjugschoolsupplycontainer_files/save-on-birthday-party150_0.jpg" width="150" height="150" alt=""></a>
+  </div>
+  <div class="deal-content col-md-8">
+    <div class="deal-headline">
+      <a class="deal-url" href="http://www.allyou.com/coupons-deals/daily-free-samples/free-birthday-011516">Free Sample: 59 Things You Can Get for Free on Your Birthday</a>
+    </div>
+    <div class="deal-more-link"><a href="http://www.allyou.com/coupons-deals/daily-free-samples">See more good deals</a></div>
+  </div>
+</div>
+</div>
+
+<div style="visibility: hidden; display: none;"></div><div class="right-rail-sticky-ad">
+  <div class="right-rail-block sidebar-block sidebar-bottom-ad">
+    <div class="advertisement advertisement-right-rail-bottom-ad ad-block ad-right-rail-bottom" id="ad_resp_right_rail_bottom_1488550732"><div id="aly_5" data-google-query-id="CO6OqqOKu9ICFUWEaQodxuwCyw"><script type="text/javascript">tgxDo.slots['ad_resp_right_rail_bottom_1488550732'] = googletag.defineSlot('/8484/aly/budgethome',[[300,250]],'aly_5').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', '300x250').setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('pos', '2').setTargeting('tile', '4').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('aly_5');</script><div id="google_ads_iframe_/8484/aly/budgethome_4__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 250px;"><iframe frameborder="0" src="./milkjugschoolsupplycontainer_files/container(3).html" id="google_ads_iframe_/8484/aly/budgethome_4" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250" data-is-safeframe="true" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>  </div>
+
+  <div class="right-rail-block sidebar-block consumer-marketing-unit">
+    <div class="advertisement advertisement-consumer-marketing-unit ad-block consumer-marketing-unit" id="ad_resp_consumer_marketing_unit_1488550732"><div id="cm.aly_6" data-google-query-id="CNiDx6KKu9ICFUYVgQodDekA0g"><script type="text/javascript">tgxDo.slots['ad_resp_consumer_marketing_unit_1488550732'] = googletag.defineSlot('/8484/cm.aly/budgethome',[[300,100]],'cm.aly_6').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', '300x100').setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('cmpos', 'globalrghtcntr').setTargeting('cmtyp', 'tout').setTargeting('pos', '1').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('cm.aly_6');</script><div id="google_ads_iframe_/8484/cm.aly/budgethome_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8484/cm.aly/budgethome_1" title="3rd party ad content" name="google_ads_iframe_/8484/cm.aly/budgethome_1" width="300" height="100" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom; height: 0px; width: 0px;" src="./milkjugschoolsupplycontainer_files/saved_resource(6).html"></iframe></div></div></div>  </div>
+</div>
+      </aside>  <!-- /#sidebar-second -->
+    
+  </div>
+</div>
+<footer class="footer container">
+  <div class="subscribe-large"><div class="advertisement advertisement-consumer-marketing-footer ad-block consumer-marketing-footer" id="consumer_marketing_footer_1488550732"><div id="cm.aly_7" data-google-query-id="CNbAyKKKu9ICFcQTgQodIg4KfQ" style="display: none;"><script type="text/javascript">tgxDo.slots['consumer_marketing_footer_1488550732'] = googletag.defineSlot('/8484/cm.aly/budgethome',[[1024,50],[1024,375]],'cm.aly_7').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', ['1024x50','1024x375']).setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('cmpos', 'globalfooter').setTargeting('cmtyp', 'tout').setTargeting('pos', '1').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('cm.aly_7');</script><div id="google_ads_iframe_/8484/cm.aly/budgethome_2__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8484/cm.aly/budgethome_2" title="3rd party ad content" name="google_ads_iframe_/8484/cm.aly/budgethome_2" width="1024" height="50" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;" src="./milkjugschoolsupplycontainer_files/saved_resource(7).html"></iframe></div></div></div></div>
+<div class="row">
+  <a class="ay-logo-footer" href="http://www.allyou.com/">AllYou.com</a>
+</div>
+<div class="footer-menu">
+  <div class="row">
+    <div class="col-xs-6 col-md-4 footer-menu-links footer-menu-more">
+      <div class="footer-menu-title title">MONEY-SAVING TOOLS</div>
+      <ul class="links"><li class="menu-18166 first"><a href="http://www.allyou.com/weekly-circulars" title="">Grocery Deal Finder</a></li>
+<li class="menu-12091"><a href="http://www.allyou.com/printable-coupons" title="">Printable Coupons</a></li>
+<li class="menu-12106"><a href="https://realitycheckers.allyou.com/" title="">Reality Checker Central</a></li>
+<li class="menu-12061"><a href="http://www.allyou.com/coupons-deals/daily-free-samples" title="">Daily Free Sample</a></li>
+<li class="menu-12096 last"><a href="http://www.allyou.com/sweepstakes/sweepstakes-giveaways" title="">Sweepstakes</a></li>
+</ul>    </div>
+    <div class="col-xs-6 col-md-4 footer-menu-links menu-all-about-you">
+      <div class="footer-menu-title title">ABOUT ALL YOU</div>
+      <ul class="links"><li class="menu-12076 first"><a href="http://www.allyou.com/about-us/" title="">About Us</a></li>
+<li class="menu-12081"><a href="http://www.allyou.com/advertising/" title="">Advertise with Us</a></li>
+<li class="menu-12086"><a href="http://www.allyou.com/contact-us/" title="">Contact Us</a></li>
+<li class="menu-12071"><a href="http://www.allyou.com/frequently-asked-questions/" title="">FAQ</a></li>
+<li class="menu-12066"><a href="http://www.allyou.com/online-quick-solutions/" title="">From Our Sponsors</a></li>
+<li class="menu-12046 last"><a href="http://www.allyou.com/sitemap" title="">Site Map</a></li>
+</ul>    </div>
+    <div class="col-xs-6 col-md-4 footer-menu-links menu-get-all-you">
+      <div class="footer-menu-title title">Get All You</div>
+      <ul class="links"><li class="menu-14506 first"><a href="http://www.allyou.com/coupons-deals/where-to-buy-all-you" title="">Where to Buy All You</a></li>
+<li class="menu-12056 last"><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/home.jsp&amp;MSRSMAG=AY" title="">Magazine Customer Service</a></li>
+</ul>    </div>
+  </div>
+</div>
+<div class="row footer-bottom-content">
+  <ul class="social-links">
+    <li class="facebook"><a href="http://www.facebook.com/allyoumagazine" class="facebook"><span class="icon-social-facebook"></span></a></li>
+    <li class="twitter"><a href="https://twitter.com/allyou" class="twitter"><span class="icon-twitter"></span></a></li>
+    <li class="pinterest"><a href="http://pinterest.com/allyoumag/" class="pinIt"><span class="icon-pinterest"></span></a></li>
+    <li class="instagram"><a href="http://instagram.com/allyoumag" class="instagram"><span class="icon-instagram"></span></a></li>
+  </ul>  <div class="footer-terms-content">
+    <p>A part of the MyRecipes Network Copyright ©2017 Time Inc. Lifestyle Group.
+      All Rights Reserved. Use of this site constitutes acceptance of our
+      <a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/terms_of_service.cgi/allyou">Terms of Use</a> and <a href="https://subscription.timeinc.com/storefront/privacy/allyou/generic_privacy_new.html?dnp-source=E">Privacy Policy</a> (<a href="https://subscription.timeinc.com/storefront/privacy/allyou/generic_privacy_new.html?dnp-source=E#california">Your California Privacy Rights</a>). <a href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html">Ad Choices</a></p>
+  </div>
+</div>
+<div class="advertisement advertisement-responsive-gum-gum-1x6 gum-gum-1x6" id="ad-async-gumgum-1x6"><div id="aly_8" data-google-query-id="CMrbyaKKu9ICFVcQgQodJOYNMg"><script type="text/javascript">tgxDo.slots['ad-async-gumgum-1x6'] = googletag.defineSlot('/8484/aly/budgethome',[[1,6]],'aly_8').addService(googletag.pubads()).setTargeting('rsseg', '').setTargeting('pu', '0').setTargeting('ch', 'budgethome').setTargeting('sch', 'crafts').setTargeting('aid', '123821').setTargeting('ctype', 'gallery').setTargeting('ptype', 'content').setTargeting('sz', '1x6').setTargeting('path', ['budget-home','crafts','recycled-crafts','craft-contest_5']).setTargeting('dcove', 'd').setTargeting('gwd', ['PQ_DrULO1_XXAU-li398','PQ_tzFgKb_XXAU-li397']).setTargeting('pos', '1').setTargeting('tile', '5').setTargeting('ch','budgethome');googletag.pubads().setTargeting('domain', 'www.allyou.com').setTargeting('plat', 'desktop');googletag.enableServices();googletag.display('aly_8');</script><div id="google_ads_iframe_/8484/aly/budgethome_5__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8484/aly/budgethome_5" title="3rd party ad content" name="google_ads_iframe_/8484/aly/budgethome_5" width="1" height="6" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;" src="./milkjugschoolsupplycontainer_files/saved_resource(8).html"></iframe></div></div></div></footer>
+      <div class="region region-page-bottom">
+    <!-- Comscore Script Start -->
+<script src="./milkjugschoolsupplycontainer_files/gw.js.download" type="text/javascript"></script>
+<script type="text/javascript">TiiAdTrackRevSci();</script><script type="text/javascript" src="./milkjugschoolsupplycontainer_files/beacon.js.download"></script>
+<!-- Comscore Script End --><!-- Facebook Pixel (from ti_snippets) -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '611415865657777']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript>&lt;img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=611415865657777&amp;amp;ev=PixelInitialized" /&gt;</noscript>  <!-- ActionX -->
+    <img src="./milkjugschoolsupplycontainer_files/v2d">
+  <!-- /End ActionX tag -->  <!-- Google Code for Remarketing Tag -->
+  <!--------------------------------------------------
+  Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+  --------------------------------------------------->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1052794656;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+  </script>
+  <script type="text/javascript" src="./milkjugschoolsupplycontainer_files/conversion.js.download">
+  </script><iframe name="google_conversion_frame" title="Google conversion frame" width="300" height="13" src="./milkjugschoolsupplycontainer_files/saved_resource(9).html" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe>
+  <noscript>
+  &lt;div style="display:inline;"&gt;
+  &lt;img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1052794656/?value=0&amp;amp;guid=ON&amp;amp;script=0"/&gt;
+  &lt;/div&gt;
+  </noscript>
+  <!-- /End Google Remarketing tag -->  <!-- Amazon Autotagging Script -->
+    <script type="text/javascript" src="./milkjugschoolsupplycontainer_files/auto-tagger.js.download"></script>
+  <!-- /End Amazon Autotagging Script -->  <!-- Skimlinks Integration Script -->
+    <script type="text/javascript" src="./milkjugschoolsupplycontainer_files/58287X1515658.skimlinks.js.download"></script>
+  <!-- /End Skimlinks Integration Script -->
+  <!-- Commission Junction Deep Link Automation Script (Needs to run after Skimlinks and as close to the closing body tag as possible) -->
+    <script src="./milkjugschoolsupplycontainer_files/am.js.download"></script>
+  <!-- /End Commission Junction Deep Link Automation Script --><!-- Qualaroo for allyou.com -->
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/51078/b45.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script><!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: All You Global
+Creation Date: 06/25/2013
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+if (typeof allyou_floodlight_info === 'undefined') {
+  var allyou_floodlight_info = {pageName: "", nodeID: 0};
+}
+document.write('<iframe src="https://4132376.fls.doubleclick.net/activityi;src=4132376;type=allyou;cat=global;u1=' + allyou_floodlight_info.pageName + '|' + allyou_floodlight_info.nodeID + ';ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="./milkjugschoolsupplycontainer_files/activityi.html" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+&lt;iframe src="https://4132376.fls.doubleclick.net/activityi;src=4132376;type=allyou;cat=global;u1=noscript;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"&gt;&lt;/iframe&gt;
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7fc7d5aa08","applicationID":"10622471","transactionName":"YFABN0tQCxJQUkEMXVkaIgBNWAoPHkVcOl5EUjwCQG4GFEJFWghtREABE1hFDRJuQVQCV2hWAg9VUwQCWg==","queueTime":0,"applicationTime":305,"atts":"TBcCQQNKGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>  </div><script src="./milkjugschoolsupplycontainer_files/onejs"></script>
+<script async="async" src="./milkjugschoolsupplycontainer_files/tag.js.download"></script>
+<script async="async" src="./milkjugschoolsupplycontainer_files/BrightcoveExperiences.js.download"></script>
+<script src="./milkjugschoolsupplycontainer_files/js__6fJ4hUm4zVC_dm1QGHCSsvxihCHy9RRwKZuBkXERk0k__N0CFSOAzz3ZpMZV4nPN5rvtZt8wcZSRkMIHtpyk6WZo__Y1n--cCQdR4ArAGPDoMjseKql3dfFkVFJnf-uvPA1tg.js.download"></script>
+<script src="./milkjugschoolsupplycontainer_files/outbrain.js.download"></script>
+<script src="./milkjugschoolsupplycontainer_files/js__WXVWn0Q_nxfxZ5ICXkDyJQTDii9V1A7YcfZX692yJJM__eYvFbF_YV9QGx2Q7zBHOvLEVA-ortyUGR5oq80jA4vM__Y1n--cCQdR4ArAGPDoMjseKql3dfFkVFJnf-uvPA1tg.js.download"></script>
+  
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><iframe name="__bkframe" id="__bkframe" title="bk" src="javascript:void(0)" style="border: 0px; width: 0px; height: 0px;" src="./milkjugschoolsupplycontainer_files/saved_resource(10).html"></iframe><div id="amzn_assoc_ad_div_adunit_0"></div><div style="margin:0;padding:0;position:static;outline:0;background:transparent none;border:none;overflow:visible;visibility:visible;filter:alpha(opacity=100);opacity:1;box-sizing:content-box;-moz-box-sizing:content-box;text-decoration:none;font:normal 12px/1 arial;text-shadow:none;box-shadow:none;color:#000;text-align:left;vertical-align:top;float:none;max-width:none;max-height:none" id="x1488569705567"><br style="display:none"><style>#x1488569705567 *{margin:0;padding:0;position:static;outline:0;background:transparent none;border:none;overflow:visible;visibility:visible;filter:alpha(opacity=100);opacity:1;box-sizing:content-box;-moz-box-sizing:content-box;text-decoration:none;font:normal 12px/1 arial;text-shadow:none;box-shadow:none;color:#000;text-align:left;vertical-align:top;float:none;max-width:none;max-height:none}@media �screen {#x1488569705567 *{-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)" !important}}#x1488569705567>iframe{display:none!important}#x1488569705567>._ar_sc{transition:opacity 0.2s ease}#x1488569705567._hii>._ar_sc{opacity:0 !important}</style><iframe frameborder="0" scrolling="no" title="Advertisement" sandbox="allow-forms allow-modals allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-presentation allow-same-origin allow-scripts" src="./milkjugschoolsupplycontainer_files/saved_resource(11).html" height="0" width="0" style="display: none;"></iframe><div id="GG_PAG" style="display:none"><br style="display:block"><style>._gInScreenBadge {
+    z-index: 10000000 !important;
+}</style></div><div id="GG_PXS" aria-hidden="true" style="display:none"><script id="LOTCC_9234" src="./milkjugschoolsupplycontainer_files/cc.js.download"></script></div></div><iframe id="LOTCCFrameFri Mar 03 2017 14:35:09 GMT-0500 (Eastern Standard Time)" src="./milkjugschoolsupplycontainer_files/rt=ifr.html" style="border: 0px; width: 0px; height: 0px; display: block;"></iframe><iframe id="google_osd_static_frame_2372528865318" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./milkjugschoolsupplycontainer_files/saved_resource(12).html"></iframe></body></html>
