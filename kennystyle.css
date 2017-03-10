@@ -22,7 +22,7 @@
   border:3px solid white;
   height:400px;
   background-size:cover;
-  background-image: url("projectImages/cancontainer.jpg");
+  background-image: url("projectImages/tincanlantern.jpg");
   background-position: center;
 
 }
@@ -31,7 +31,7 @@
   border:3px solid white;
   height:400px;
   background-size:cover;
-  background-image: url("projectImages/tinCanMan.jpg");
+  background-image: url("projectImages/cancontainer.jpg");
 }
 
 #box3{
