@@ -19,7 +19,7 @@
 }
 
 #box1{
-  border:3px solid black;
+  border:3px solid white;
   height:400px;
   background-size:cover;
   background-image: url("projectImages/tincanlantern.jpg");
@@ -28,35 +28,35 @@
 }
 
 #box2{
-  border:3px solid black;
+  border:3px solid white;
   height:400px;
   background-size:cover;
   background-image: url("projectImages/tinCanMan.jpg");
 }
 
 #box3{
-  border:3px solid black;
+  border:3px solid white;
   height:400px;
   background-size:cover;
   background-image: url("projectImages/steelDrumChair.jpg");
 }
 
 #box4{
-  border:3px solid black;
+  border:3px solid white;
 height:400px;
 background-size:cover;
 background-image: url("projectImages/bottleChristmasTree.jpg");
 }
 
 #box5{
-  border:3px solid black;
+  border:3px solid white;
   height:400px;
   background-size:cover;
   background-image: url("projectImages/carTireCrafts.jpg");
 }
 
 #box6{
-  border:3px solid black;
+  border:3px solid white;
   height:400px;
   background-size:cover;
   background-image: url("projectImages/plasticBottleContainers.jpg");
