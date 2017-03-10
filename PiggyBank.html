@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cycology - Community Projects - Project</title>
+      <link rel="stylesheet" href="ProjectProfile-Modal.css">
+      <link rel="stlyesheet" href="kennystyle.css">
+      <!-- Compiled and minified CSS -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+      <!--Import Google Icon Font-->
+     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+     <!--Let browser know website is optimized for mobile-->
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <!--Import jQuery before materialize.js-->
+     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+     <!-- Compiled and minified JavaScript -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+     <script src="ProjectProfile-Modal.js"></script>
+  </head>
+  <body>
+
+    <div class="navbar-fixed">
+    <nav>
+      <div class="nav-wrapper">
+       <img src="projectImages/worldrecycle.png" width=4.1% >
+        <!-- <a href="worldrecycle.png" class="brand-logo">Logo</a> -->
+        <ul class="right hide-on-med-and-down">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="Community Projects.html">Community Projects</a></li>
+          <li><a href="aboutus.html">About Us</a></li>
+        </ul>
+      </div>
+    </nav>
+      
+  </div>
+
+    <div class="row">  <div class="titleofprojectbox">
+        <h1 class="titleofprojecttxt"> Egg Carton Lantern </h1>
+      </div>
+      <!-- <div id="projectname" class="col s12">Title of Project</div> -->
+
+  </div>
+
+    <div class="row">
+      <div id="projectimage" class="col s12" style="background-image: url('eggcartonlamp.jpg'); background-size: cover; background-position: center;">
+      </div>
+    </div>
+
+    <!-- <div class="row">
+      <div id="description" class="col s12">
+        <h2>Project Description</h2>
+      </div>
+    </div> -->
+
+    <div class="row">
+      <div id="projectdescription">
+          <p>With just an egg carton, lights, spray paint, chicken wire, and a craft knife, you can make this beautiful egg carton lamp!</p>
+      </div>
+    </div>
+
+    <div class="instructions">
+
+        <h3 id="instructionstitle">Instructions</h3>
+      </div>
+      <div class="instructionslist">
+      <ol>
+        <li>Cut out individual cups from egg cartons. Trim edges of each cup to look like 4 rounded petals.</li>
+        <li>Spray-paint inside and outside of cups.</li>
+        <li>Push a lightbulb through each hole in chicken wire, using floral wire to secure.</li>
+        <li>Roll chicken wire into a cylinder, lights facing out, and fasten ends together with floral wire. Stand cylinder on one end.</li>
+        <li>Using craft knife, cut an X through the bottom of each egg cup. Push a cup over each lightbulb.</li>
+      </ol>
+    </div>
+    </div>
+
+      <div id="exampletitle">
+        <h3>Examples</h3>
+      </div>
+
+      <div class="row">
+        <a href="TinCanFloralLantern.html" class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Tin Can Floral Lantern"><div id="example1" class="col s12 m2 offset-m2" style="background-image: url('tincanlantern.jpg'); background-size: cover; background-position: center;">
+
+        </div></a>
+        <a href="MilkJugSchoolSupplyContainer.html" class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Milk Jug Container"><div id="example2" class="col s12 m2 offset-m1" style="background-image: url('milkjugschoolsupplycontainer.jpg'); background-size: cover; background-position: center;">
+
+        </div></a>
+        <a href="TinCanStorageContainers.html" class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Tin Can Storage Containers"><div id="example2" class="col s12 m2 offset-m1" style="background-image: url('cancontainer.jpg'); background-size: cover; background-position: center;">
+
+        </div></a>
+    </div>
+
+
+    <!-- <div id="submit">
+      <button data-target="modal1" class="btn">Submit Your Project!</button>
+    </div> -->
+    <div class="row">
+        <div id="submit" class="col s12 m4 offset-m4"><a href="#modal1" class="waves-effect waves-light btn">Submit Your Project!</a></div>
+    </div>
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <h4>Submit Your Project!</h4>
+        <form>
+          <!-- First name:<br>
+          <input type="text" name="firstname" class="firstNameInput"><br>
+          Last name:<br>
+          <input type="text" name="lastname"> -->
+          <div class="row">
+        <div class="input-field col s6">
+          <input id="first_name" type="text" class="validate">
+          <label for="first_name">First Name</label>
+        </div>
+        <div class="input-field col s6">
+          <input id="last_name" type="text" class="validate">
+          <label for="last_name">Last Name</label>
+        </div>
+      </div>
+
+          <!-- E-mail:<br> -->
+        <div class="input-field col s12">
+          <input id="e-mail" type="text" class="validate">
+          <label for="e-mail">E-mail</label>
+        </div>
+        <div class="input-field col s12">
+          <input id="title_of_project" type="text" class="validate">
+          <label for="title_of_project">Title of Project</label>
+        </div>
+        <div class="input-field col s12">
+          <input id="descriptionmodal" type="text" class="validate">
+          <label for="descriptionmodal">Description</label>
+        </div>
+          <div class="file-field input-field">
+            <div class="btn">
+              <span>Upload Image</span>
+              <input type="file">
+            </div>
+            <div class="file-path-wrapper">
+              <input class="file-path validate" type="text">
+            </div>
+          </div>
+          <div class="input-field col s12">
+            <textarea id="instructionsmodal" type="text" class="materialize-textarea"></textarea>
+            <label for="instructionsmodal">Instructions</label>
+          </div>
+
+        </form>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Submit</a>
+    </div>
+  </div>
