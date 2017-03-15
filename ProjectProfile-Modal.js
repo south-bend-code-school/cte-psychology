@@ -25,7 +25,7 @@ $(document).ready(function(){
 		var project={
 			first_name : fname,
 			last_name : lname,
-			e-mail : email,
+			email : email,
 			title : projtitle,
 			description : description,
 			instructions : instructions,
