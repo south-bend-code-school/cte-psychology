@@ -9,10 +9,12 @@ $(document).ready(function(){
     storageBucket: "cycology-bf692.appspot.com",
     messagingSenderId: "406373055263"
   };
-	 firebase.initializeApp(config);
+	firebase.initializeApp(config);
+	
 	$('submitbutton').click(writeData);
 	function writeData() {
-	}
+		console.log("in write data");
+		
 		var fname = $('#first_name').val();
 		var lname = $('#last_name').val();
 		var email = $('#e-mail').val();
@@ -20,20 +22,21 @@ $(document).ready(function(){
 		var description = $('descriptionmodal').val();
 		var instructions = $('instructionsmodal').val();
 	
-			var project={
+		var project={
 			first_name : fname,
 			last_name : lname,
 			e-mail : email,
 			title : projtitle,
 			description : description,
 			instructions : instructions,
-			};
+		};
 	
 	
-			var newProjectKey = firebase.database().ref().child('Project').push().key;
-			var updates = {};
-			updates ['/Project/' + newProjectKey] = project;
-	firebase.storage().ref().child('images/projects/' + newProjectKey).put($('#photo')[0].files[0]).then(function(snapshot){return firebase.database.ref().update(updates).then(function(){
+		var newProjectKey = firebase.database().ref().child('Project').push().key;
+		var updates = {};
+		updates['/Project/' + newProjectKey] = project;
+		firebase.storage().ref().child('images/projects/' + newProjectKey).put($('#photo')[0].files[0]).then(function(snapshot){return firebase.database().ref().update(updates).then(function(){
 		window.location.replace('Community Projects.html');
+	});
+																
 });
-
