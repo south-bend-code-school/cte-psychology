@@ -9,5 +9,7 @@ $(document).ready(function(){
     storageBucket: "cycology-bf692.appspot.com",
     messagingSenderId: "406373055263"
   };
+	 firebase.initializeApp(config);
+</script>
 });
 
