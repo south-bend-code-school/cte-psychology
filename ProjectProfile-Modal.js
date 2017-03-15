@@ -11,7 +11,13 @@ $(document).ready(function(){
   };
 	firebase.initializeApp(config);
 	
-	$('submitbutton').click(writeData);
+	$('#submit').click(openModal);
+	function openModal() {
+		$('#modal1').modal('open');
+	}
+	
+	
+	$('#submitbutton').click(writeData);
 	function writeData() {
 		console.log("in write data");
 		
