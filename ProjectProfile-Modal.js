@@ -47,5 +47,5 @@ $(document).ready(function(){
 				window.location.replace('Community Projects.html');
 			});
 		});
-	});
+	}
 });
