@@ -14,5 +14,11 @@ $(document).ready(function(){
 	$('submitbutton').click(writeData);
 	function writeData() {
 	}
+		var fname = $('#first_name').val();
+		var lname = $('#last_name').val();
+		var email = $('#e-mail').val();
+		var projtitle = $('title_of_project').val();
+		var description = $('descriptionmodal').val();
+		var instructions = $('instructionsmodal').val();
 });
 
