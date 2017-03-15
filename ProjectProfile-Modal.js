@@ -11,5 +11,8 @@ $(document).ready(function(){
   };
 	 firebase.initializeApp(config);
 </script>
+	$('submitbutton').click(writeData);
+	function writeData() {
+	}
 });
 
