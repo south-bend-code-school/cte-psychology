@@ -3,12 +3,13 @@ $(document).ready(function(){
 	//$('.modal').modal();
 	$('.tooltipped').tooltip({delay: 50});
 	var config = {
-    apiKey: "AIzaSyBAImpIGb9JxO_FYM3jWj4lwNojBy0wCmc",
-    authDomain: "cycology-bf692.firebaseapp.com",
-    databaseURL: "https://cycology-bf692.firebaseio.com",
-    storageBucket: "cycology-bf692.appspot.com",
-    messagingSenderId: "406373055263"
-  };
+    		apiKey: "AIzaSyBAImpIGb9JxO_FYM3jWj4lwNojBy0wCmc",
+    		authDomain: "cycology-bf692.firebaseapp.com",
+    		databaseURL: "https://cycology-bf692.firebaseio.com",
+    		storageBucket: "cycology-bf692.appspot.com",
+   		 messagingSenderId: "406373055263"
+  	};
+	
 	firebase.initializeApp(config);
 	
 	$('#submit').click(openModal);
@@ -41,8 +42,9 @@ $(document).ready(function(){
 		var newProjectKey = firebase.database().ref().child('Project').push().key;
 		var updates = {};
 		updates['/Project/' + newProjectKey] = project;
-		firebase.storage().ref().child('images/projects/' + newProjectKey).put($('#photo')[0].files[0]).then(function(snapshot){return firebase.database().ref().update(updates).then(function(){
-		window.location.replace('Community Projects.html');
-	});
-																
+		firebase.storage().ref().child('images/projects/' + newProjectKey).put($('#photo')[0].files[0]).then(function(snapshot){
+			return firebase.database().ref().update(updates).then(function(){
+				window.location.replace('Community Projects.html');
+		});
+	});														
 });
