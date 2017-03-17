@@ -21,14 +21,13 @@ nav{
 }
 .descriptionbox{
   height:150px;
-  width: 800px;
-
+  width: 100%;
 margin-bottom: 20px;
   margin-left: 19%;
 }
 .description{
 font-style: font-family: Gill Sans MT, sans-serif;
-text-align: center;
+/* text-align: center; */
 font-size: 25px;
 color: #467131;
 padding-top: 2%;
